@@ -1,0 +1,135 @@
+name ,size ,type ,tags,alignment ,challenge ,xp,source 
+Baboon,Small,Beast,,Unaligned,0,10,mm 318
+Commoner,Medium,Humanoid,,Any,0,10,mm 344
+Eagle,Small,Beast,,Unaligned,0,10,mm 322
+Goat,Medium,Beast,,Unaligned,0,10,mm 330
+Hyena,Medium,Beast,,Unaligned,0,10,mm 331
+Raven,Tiny,Beast,,Unaligned,0,10,mm 335
+Vulture,Medium,Beast,,Unaligned,0,10,mm 339
+Bandit,Medium,Humanoid,,Any non-lawful,1/8,25,mm 343
+Blood Hawk,Small,Beast,,Unaligned,1/8,25,mm 319
+Boggle,Small,Fey,,CN,1/8,25,vgm 128
+Giant Weasel,Medium,Beast,,Unaligned,1/8,25,mm 329
+Guard,Medium,Humanoid,,,1/8,25,mm 347
+Kobold,Small,Humanoid,kobold,LE,1/8,25,mm 195
+Mastiff,Medium,Beast,,Unaligned,1/8,25,mm 332
+Mule,Medium,Beast,,Unaligned,1/8,25,mm 333
+Neogi Hatchling,Tiny,Aberration,,LE,1/8,25,vgm 179
+Poisonous Snake,Tiny,Beast,,Unaligned,1/8,25,mm 334
+Stirge,Tiny,Beast,,Unaligned,1/8,25,mm 284
+Tribal Warrior,Medium,Humanoid,,,1/8,25,mm 350
+Xvart,Small,Humanoid,xvart,CE,1/8,25,vgm 200
+Axe Beak,Large,Beast,,Unaligned,1/4,50,mm 317
+Boar,Medium,Beast,,Unaligned,1/4,50,mm 319
+Elk,Large,Beast,,Unaligned,1/4,50,mm 322
+Giant Owl,Large,Beast,,N,1/4,50,mm 327
+Giant Wolf Spider,Medium,Beast,,Unaligned,1/4,50,mm 330
+Gnoll Witherling,Medium,Undead,,CE,1/4,50,vgm 155
+Goblin,Small,Humanoid,goblinoid,NE,1/4,50,mm 166
+Kobold Inventor,Small,Humanoid,kobold,LE,1/4,50,vgm 166
+Panther,Medium,Beast,,Unaligned,1/4,50,mm 333
+Pseudodragon,Tiny,Dragon,,NG,1/4,50,mm 254
+Swarm of Bats,Medium,Beast,,Unaligned,1/4,50,mm 337
+Swarm of Ravens,Medium,Beast,,Unaligned,1/4,50,mm 339
+Winged Kobold,Small,Humanoid,kobold,LE,1/4,50,mm 195
+Wolf,Medium,Beast,,Unaligned,1/4,50,mm 341
+Firenewt Warrior,Medium,Humanoid,firenewt,NE,1/2,100,vgm 142
+Giant Goat,Large,Beast,,Unaligned,1/2,100,mm 326
+Gnoll,Medium,Humanoid,gnoll,CE,1/2,100,mm 163
+Gnoll Hunter,Medium,Humanoid,gnoll,CE,1/2,100,vgm 154
+Hobgoblin,Medium,Humanoid,goblinoid,LE,1/2,100,mm 186
+Orc,Medium,Humanoid,orc,CE,1/2,100,mm 246
+Orc Nurtured One of Yurtrus,Medium,Humanoid,orc,CE,1/2,100,vgm 184
+Scout,Medium,Humanoid,,,1/2,100,mm 349
+Swarm of Insects,Medium,Beast,,Unaligned,1/2,100,mm 338
+Worg,Large,Monstrosity,,NE,1/2,100,mm 341
+Bronze Scout,Medium,Construct,,Unaligned,1,200,mtf 125
+Brown Bear,Large,Beast,,Unaligned,1,200,mm 319
+Deinonychus,Medium,Beast,,Unaligned,1,200,vgm 139
+Dire Wolf,Large,Beast,,Unaligned,1,200,mm 321
+Firenewt Warlock of Imix,Medium,Humanoid,firenewt,NE,1,200,vgm 143
+Giant Eagle,Large,Beast,,NG,1,200,mm 324
+Giant Hyena,Large,Beast,,Unaligned,1,200,mm 326
+Giant Strider,Large,Monstrosity,,NE,1,200,vgm 143
+Gnoll Flesh Gnawer,Medium,Humanoid,gnoll,CE,1,200,vgm 154
+Goblin Boss,Small,Humanoid,goblinoid,NE,1,200,mm 166
+Half-ogre,Large,Giant,,Any chaotic,1,200,mm 238
+Harpy,Medium,Monstrosity,,CE,1,200,mm 181
+Hippogriff,Large,Monstrosity,,Unaligned,1,200,mm 184
+Kobold Dragonshield,Small,Humanoid,kobold,LE,1,200,vgm 165
+Kobold Scale Sorcerer,Small,Humanoid,kobold,LE,1,200,vgm 167
+Lion,Large,Beast,,Unaligned,1,200,mm 331
+Meazel,Medium,Humanoid,meazel,NE,1,200,mtf 214
+Nilbog,Small,Humanoid,goblinoid,CE,1,200,vgm 182
+Xvart Warlock of Raxivort,Small,Humanoid,xvart,CE,1,200,vgm 200
+Aurochs,Large,Beast,,Unaligned,2,450,vgm 207
+Bandit Captain,Medium,Humanoid,,Any non-lawful,2,450,mm 344
+Berserker,Medium,Humanoid,,Any chaotic,2,450,mm 344
+Druid,Medium,Humanoid,,Any,2,450,mm 346
+Giant Boar,Large,Beast,,Unaligned,2,450,mm 323
+Giant Elk,Huge,Beast,,Unaligned,2,450,mm 325
+Gnoll Pack Lord,Medium,Humanoid,gnoll,CE,2,450,mm 163
+Griffon,Large,Monstrosity,,Unaligned,2,450,mm 174
+Hobgoblin Iron Shadow,Medium,Humanoid,goblinoid,LE,2,450,vgm 162
+Ogre,Large,Giant,,CE,2,450,mm 237
+Ogre Bolt Launcher,Large,Giant,,CE,2,450,mtf 220
+Ogre Howdah,Large,Giant,,CE,2,450,mtf 221
+Orc Eye of Gruumsh,Medium,Humanoid,orc,CE,2,450,mm 247
+Orc Hand of Yurtrus,Medium,Humanoid,orc,CE,2,450,vgm 184
+Orog,Medium,Humanoid,orc,CE,2,450,mm 247
+Pegasus,Large,Celestial,,CG,2,450,mm 250
+Peryton,Medium,Monstrosity,,CE,2,450,mm 251
+Quetzalcoatlus,Huge,Beast,,Unaligned,2,450,vgm 140
+Shadow Mastiff,Medium,Monstrosity,NE,NE,2,450,vgm 190
+Green Hag,Medium,Fey,,NE,3,700,mm 177
+Hobgoblin Captain,Medium,Humanoid,goblinoid,LE,3,700,mm 186
+Manticore,Large,Monstrosity,,LE,3,700,mm 213
+Neogi,Small,Aberration,,LE,3,700,vgm 180
+Ogre Chain Brute,Large,Giant,,CE,3,700,mtf 221
+Orc Red Fang of Shargaas,Medium,Humanoid,orc,CE,3,700,vgm 185
+Phase Spider,Large,Monstrosity,,Unaligned,3,700,mm 334
+Redcap,Small,Fey,,CE,3,700,vgm 188
+Veteran,Medium,Humanoid,,,3,700,mm 350
+Werewolf,Medium,Humanoid,"human, shapechanger",CE,3,700,mm 211
+Barghest,Large,Fiend,shapechanger,NE,4,1100,vgm 123
+Ettin,Large,Giant,,CE,4,1100,mm 132
+Gnoll Fang of Yeenoghu,Medium,Fiend,gnoll,CE,4,1100,mm 163
+Hobgoblin Devastator,Medium,Humanoid,goblinoid,LE,4,1100,vgm 161
+Iron Cobra,Medium,Construct,,Unaligned,4,1100,mtf 125
+Neogi Master,Medium,Aberration,,LE,4,1100,vgm 180
+Ogre Battering Ram,Large,Giant,,CE,4,1100,mtf 220
+Orc Blade of Ilneval,Medium,Humanoid,orc,CE,4,1100,vgm 183
+Stone Defender,Medium,Construct,,Unaligned,4,1100,mtf 126
+Wereboar,Medium,Humanoid,"human, shapechanger",NE,4,1100,mm 209
+Yeth Hound,Large,Fey,,NE,4,1100,vgm 201
+Bulette,Large,Monstrosity,,Unaligned,5,1800,mm 34
+Gorgon,Large,Monstrosity,,Unaligned,5,1800,mm 171
+Hill Giant,Huge,Giant,,CE,5,1800,mm 155
+Oaken Bolter,Medium,Construct,,Unaligned,5,1800,mtf 126
+Revenant,Medium,Undead,,N,5,1800,mm 259
+Tanarukk,Medium,Fiend,"demon, orc",CE,5,1800,vgm 186
+Troll,Large,Giant,,CE,5,1800,mm 291
+Werebear,Medium,Humanoid,"human, shapechanger",NG,5,1800,mm 208
+Annis Hag,Large,Fey,,CE,6,2300,vgm 159
+Chimera,Large,Monstrosity,,CE,6,2300,mm 39
+Cyclops,Huge,Giant,,CN,6,2300,mm 45
+Galeb Duhr,Medium,Elemental,,N,6,2300,mm 139
+Hobgoblin Warlord,Medium,Humanoid,goblinoid,LE,6,2300,mm 187
+Mouth of Grolantor,Huge,Giant,hill giant,CE,6,2300,vgm 149
+Wyvern,Large,Dragon,,Unaligned,6,2300,mm 303
+Stone Giant,Huge,Giant,,N,7,2900,mm 156
+Young Copper Dragon,Large,Dragon,,CG,7,2900,mm 111
+Howler,Large,Fiend,,CE,8,3900,mtf 210
+Shoosuva,Large,Fiend,demon,CE,8,3900,vgm 137
+Flind,Medium,Humanoid,gnoll,CE,9,5000,vgm 153
+Stone Giant Dreamwalker,Huge,Giant,stone giant,CN,10,5900,vgm 150
+Young Red Dragon,Large,Dragon,,CE,10,5900,mm 98
+Roc,Gargantuan,Monstrosity,,Unaligned,11,7200,mm 260
+Gray Render,Large,Monstrosity,,CN,12,8400,mtf 209
+Dire Troll,Huge,Giant,,CE,13,10000,mtf 243
+Adult Copper Dragon,Huge,Dragon,,CG,14,11500,mm 111
+Adult Red Dragon,Huge,Dragon,,CE,17,18000,mm 98
+Ancient Copper Dragon,Gargantuan,Dragon,,CG,21,33000,mm 110
+Zaratan,Gargantuan,Elemental,,N,22,41000,mtf 201
+Elder Tempest,Gargantuan,Elemental,,N,23,50000,mtf 200
+Ancient Red Dragon,Gargantuan,Dragon,,CE,24,62000,mm 97

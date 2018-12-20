@@ -1,0 +1,56 @@
+name ,size ,type ,tags,alignment ,challenge ,xp,source 
+Commoner,Medium,Humanoid,,Any,0,10,mm 344
+Owl,Tiny,Beast,,Unaligned,0,10,mm 333
+Bandit,Medium,Humanoid,,Any non-lawful,1/8,25,mm 343
+Blood Hawk,Small,Beast,,Unaligned,1/8,25,mm 319
+Kobold,Small,Humanoid,kobold,LE,1/8,25,mm 195
+Tribal Warrior,Medium,Humanoid,,,1/8,25,mm 350
+Giant Owl,Large,Beast,,N,1/4,50,mm 327
+Gnoll Witherling,Medium,Undead,,CE,1/4,50,vgm 155
+Winged Kobold,Small,Humanoid,kobold,LE,1/4,50,mm 195
+Gnoll Hunter,Medium,Humanoid,gnoll,CE,1/2,100,vgm 154
+Ice Mephit,Small,Elemental,,NE,1/2,100,mm 215
+Orc,Medium,Humanoid,orc,CE,1/2,100,mm 246
+Scout,Medium,Humanoid,,,1/2,100,mm 349
+Brown Bear,Large,Beast,,Unaligned,1,200,mm 319
+Gnoll Flesh Gnawer,Medium,Humanoid,gnoll,CE,1,200,vgm 154
+Half-ogre,Large,Giant,,Any chaotic,1,200,mm 238
+Bandit Captain,Medium,Humanoid,,Any non-lawful,2,450,mm 344
+Berserker,Medium,Humanoid,,Any chaotic,2,450,mm 344
+Druid,Medium,Humanoid,,Any,2,450,mm 346
+Griffon,Large,Monstrosity,,Unaligned,2,450,mm 174
+Guard Drake,Medium,Dragon,,Unaligned,2,450,vgm 158
+Ogre,Large,Giant,,CE,2,450,mm 237
+Orc Eye of Gruumsh,Medium,Humanoid,orc,CE,2,450,mm 247
+Orog,Medium,Humanoid,orc,CE,2,450,mm 247
+Polar Bear,Large,Beast,,Unaligned,2,450,mm 334
+Saber-toothed Tiger,Large,Beast,,Unaligned,2,450,mm 336
+Manticore,Large,Monstrosity,,LE,3,700,mm 213
+Vampiric Mist,Medium,Undead,,CE,3,700,mtf 246
+Veteran,Medium,Humanoid,,,3,700,mm 350
+Winter Wolf,Large,Monstrosity,,NE,3,700,mm 340
+Yeti,Large,Monstrosity,,CE,3,700,mm 305
+Revenant,Medium,Undead,,N,5,1800,mm 259
+Troll,Large,Giant,,CE,5,1800,mm 291
+Werebear,Medium,Humanoid,"human, shapechanger",NG,5,1800,mm 208
+Young Remorhaz,Large,Monstrosity,,Unaligned,5,1800,mm 258
+Mammoth,Huge,Beast,,Unaligned,6,2300,mm 332
+Young White Dragon,Large,Dragon,,CE,6,2300,mm 101
+Bheur Hag,Medium,Fey,,CE,7,2900,vgm 160
+Lost Sorrowsworn,Medium,Monstrosity,,NE,7,2900,mtf 233
+Frost Giant,Huge,Giant,,NE,8,3900,mm 155
+Shoosuva,Large,Fiend,demon,CE,8,3900,vgm 137
+Abominable Yeti,Huge,Monstrosity,,CE,9,5000,mm 306
+Flind,Medium,Humanoid,gnoll,CE,9,5000,vgm 153
+Frost Salamander,Huge,Elemental,,Unaligned,9,5000,mtf 223
+Winter Eladrin,Medium,Fey,elf,CN,10,5900,mtf 197
+Remorhaz,Huge,Monstrosity,,Unaligned,11,7200,mm 258
+Roc,Gargantuan,Monstrosity,,Unaligned,11,7200,mm 260
+Boneclaw,Large,Undead,,CE,12,8400,mtf 121
+Frost Giant Everlasting One,Huge,Giant,frost giant,CE,12,8400,vgm 148
+Adult White Dragon,Huge,Dragon,,CE,13,10000,mm 101
+Dire Troll,Huge,Giant,,CE,13,10000,mtf 243
+Storm Giant Quintessent,Huge,Giant,storm giant,CG,16,15000,vgm 151
+Ancient White Dragon,Gargantuan,Dragon,,CE,20,25000,mm 100
+Nightwalker,Huge,Undead,,CE,20,25000,mtf 216
+Elder Tempest,Gargantuan,Elemental,,N,23,50000,mtf 200

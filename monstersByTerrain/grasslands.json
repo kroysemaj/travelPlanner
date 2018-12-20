@@ -1,0 +1,1182 @@
+[
+ {
+  "name": "Cat",
+  "size": "Tiny",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 320\r"
+ },
+ {
+  "name": "Commoner",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "Any",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 344\r"
+ },
+ {
+  "name": "Deer",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 321\r"
+ },
+ {
+  "name": "Eagle",
+  "size": "Small",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 322\r"
+ },
+ {
+  "name": "Goat",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 330\r"
+ },
+ {
+  "name": "Hyena",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 331\r"
+ },
+ {
+  "name": "Jackal",
+  "size": "Small",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 331\r"
+ },
+ {
+  "name": "Vulture",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 339\r"
+ },
+ {
+  "name": "Blood Hawk",
+  "size": "Small",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 319\r"
+ },
+ {
+  "name": "Flying Snake",
+  "size": "Tiny",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 322\r"
+ },
+ {
+  "name": "Giant Weasel",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 329\r"
+ },
+ {
+  "name": "Guard",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 347\r"
+ },
+ {
+  "name": "Poisonous Snake",
+  "size": "Tiny",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 334\r"
+ },
+ {
+  "name": "Stirge",
+  "size": "Tiny",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 284\r"
+ },
+ {
+  "name": "Tribal Warrior",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 350\r"
+ },
+ {
+  "name": "Axe Beak",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 317\r"
+ },
+ {
+  "name": "Boar",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 319\r"
+ },
+ {
+  "name": "Elk",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 322\r"
+ },
+ {
+  "name": "Giant Poisonous Snake",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 327\r"
+ },
+ {
+  "name": "Giant Wolf Spider",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 330\r"
+ },
+ {
+  "name": "Gnoll Witherling",
+  "size": "Medium",
+  "type": "Undead",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "vgm 155\r"
+ },
+ {
+  "name": "Goblin",
+  "size": "Small",
+  "type": "Humanoid",
+  "tags": "goblinoid",
+  "alignment": "NE",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 166\r"
+ },
+ {
+  "name": "Hadrosaurus",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "vgm 140\r"
+ },
+ {
+  "name": "Panther",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 333\r"
+ },
+ {
+  "name": "Pteranodon",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 80\r"
+ },
+ {
+  "name": "Riding Horse",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 336\r"
+ },
+ {
+  "name": "Rothe",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "vgm 207\r"
+ },
+ {
+  "name": "Velociraptor",
+  "size": "Tiny",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "vgm 140\r"
+ },
+ {
+  "name": "Wolf",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 341\r"
+ },
+ {
+  "name": "Cockatrice",
+  "size": "Small",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 42\r"
+ },
+ {
+  "name": "Giant Goat",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 326\r"
+ },
+ {
+  "name": "Giant Wasp",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 329\r"
+ },
+ {
+  "name": "Gnoll",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "gnoll",
+  "alignment": "CE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 163\r"
+ },
+ {
+  "name": "Gnoll Hunter",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "gnoll",
+  "alignment": "CE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "vgm 154\r"
+ },
+ {
+  "name": "Hobgoblin",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "goblinoid",
+  "alignment": "LE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 186\r"
+ },
+ {
+  "name": "Jackalwere",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "shapechanger",
+  "alignment": "CE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 193\r"
+ },
+ {
+  "name": "Orc",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 246\r"
+ },
+ {
+  "name": "Orc Nurtured One of Yurtrus",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "vgm 184\r"
+ },
+ {
+  "name": "Scout",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 349\r"
+ },
+ {
+  "name": "Swarm of Insects",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 338\r"
+ },
+ {
+  "name": "Worg",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 341\r"
+ },
+ {
+  "name": "Bronze Scout",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mtf 125\r"
+ },
+ {
+  "name": "Bugbear",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "goblinoid",
+  "alignment": "CE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 33\r"
+ },
+ {
+  "name": "Deinonychus",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "vgm 139\r"
+ },
+ {
+  "name": "Giant Eagle",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "NG",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 324\r"
+ },
+ {
+  "name": "Giant Hyena",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 326\r"
+ },
+ {
+  "name": "Giant Vulture",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 329\r"
+ },
+ {
+  "name": "Gnoll Flesh Gnawer",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "gnoll",
+  "alignment": "CE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "vgm 154\r"
+ },
+ {
+  "name": "Goblin Boss",
+  "size": "Small",
+  "type": "Humanoid",
+  "tags": "goblinoid",
+  "alignment": "NE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 166\r"
+ },
+ {
+  "name": "Hippogriff",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 184\r"
+ },
+ {
+  "name": "Lion",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 331\r"
+ },
+ {
+  "name": "Meazel",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "meazel",
+  "alignment": "NE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mtf 214\r"
+ },
+ {
+  "name": "Scarecrow",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 268\r"
+ },
+ {
+  "name": "Thri-kreen",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "thri-kreen",
+  "alignment": "CN",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 288\r"
+ },
+ {
+  "name": "Tiger",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 339\r"
+ },
+ {
+  "name": "Allosaurus",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 79\r"
+ },
+ {
+  "name": "Ankheg",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 21\r"
+ },
+ {
+  "name": "Aurochs",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "vgm 207\r"
+ },
+ {
+  "name": "Centaur",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "NG",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 38\r"
+ },
+ {
+  "name": "Druid",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "Any",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 346\r"
+ },
+ {
+  "name": "Giant Boar",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 323\r"
+ },
+ {
+  "name": "Giant Elk",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 325\r"
+ },
+ {
+  "name": "Gnoll Pack Lord",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "gnoll",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 163\r"
+ },
+ {
+  "name": "Griffon",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 174\r"
+ },
+ {
+  "name": "Hobgoblin Iron Shadow",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "goblinoid",
+  "alignment": "LE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "vgm 162\r"
+ },
+ {
+  "name": "Ogre",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 237\r"
+ },
+ {
+  "name": "Ogre Bolt Launcher",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mtf 220\r"
+ },
+ {
+  "name": "Ogre Howdah",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mtf 221\r"
+ },
+ {
+  "name": "Orc Eye of Gruumsh",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 247\r"
+ },
+ {
+  "name": "Orc Hand of Yurtrus",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "vgm 184\r"
+ },
+ {
+  "name": "Orog",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 247\r"
+ },
+ {
+  "name": "Pegasus",
+  "size": "Large",
+  "type": "Celestial",
+  "tags": "",
+  "alignment": "CG",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 250\r"
+ },
+ {
+  "name": "Rhinoceros",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 336\r"
+ },
+ {
+  "name": "Ankylosaurus",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mm 79\r"
+ },
+ {
+  "name": "Hobgoblin Captain",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "goblinoid",
+  "alignment": "LE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mm 186\r"
+ },
+ {
+  "name": "Leucrotta",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "vgm 169\r"
+ },
+ {
+  "name": "Manticore",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "LE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mm 213\r"
+ },
+ {
+  "name": "Ogre Chain Brute",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mtf 221\r"
+ },
+ {
+  "name": "Phase Spider",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mm 334\r"
+ },
+ {
+  "name": "Sword Wraith Warrior",
+  "size": "Medium",
+  "type": "Undead",
+  "tags": "",
+  "alignment": "LE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mtf 241\r"
+ },
+ {
+  "name": "Vampiric Mist",
+  "size": "Medium",
+  "type": "Undead",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mtf 246\r"
+ },
+ {
+  "name": "Veteran",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mm 350\r"
+ },
+ {
+  "name": "Barghest",
+  "size": "Large",
+  "type": "Fiend",
+  "tags": "shapechanger",
+  "alignment": "NE",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "vgm 123\r"
+ },
+ {
+  "name": "Couatl",
+  "size": "Medium",
+  "type": "Celestial",
+  "tags": "",
+  "alignment": "LG",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "mm 43\r"
+ },
+ {
+  "name": "Elephant",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "mm 322\r"
+ },
+ {
+  "name": "Gnoll Fang of Yeenoghu",
+  "size": "Medium",
+  "type": "Fiend",
+  "tags": "gnoll",
+  "alignment": "CE",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "mm 163\r"
+ },
+ {
+  "name": "Hobgoblin Devastator",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "goblinoid",
+  "alignment": "LE",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "vgm 161\r"
+ },
+ {
+  "name": "Iron Cobra",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "mtf 125\r"
+ },
+ {
+  "name": "Ogre Battering Ram",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "mtf 220\r"
+ },
+ {
+  "name": "Orc Blade of Ilneval",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "vgm 183\r"
+ },
+ {
+  "name": "Stegosaurus",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "vgm 140\r"
+ },
+ {
+  "name": "Stone Defender",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "mtf 126\r"
+ },
+ {
+  "name": "Wereboar",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "\"human",
+  "alignment": " shapechanger\"",
+  "challenge": "NE",
+  "xp": "4",
+  "source": "1100"
+ },
+ {
+  "name": "Weretiger",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "\"human",
+  "alignment": " shapechanger\"",
+  "challenge": "N",
+  "xp": "4",
+  "source": "1100"
+ },
+ {
+  "name": "Yeth Hound",
+  "size": "Large",
+  "type": "Fey",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "vgm 201\r"
+ },
+ {
+  "name": "Brontosaurus",
+  "size": "Gargantuan",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "vgm 139\r"
+ },
+ {
+  "name": "Bulette",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mm 34\r"
+ },
+ {
+  "name": "Gorgon",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mm 171\r"
+ },
+ {
+  "name": "Oaken Bolter",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mtf 126\r"
+ },
+ {
+  "name": "Triceratops",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mm 80\r"
+ },
+ {
+  "name": "Chimera",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "6",
+  "xp": "2300",
+  "source": "mm 39\r"
+ },
+ {
+  "name": "Cyclops",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CN",
+  "challenge": "6",
+  "xp": "2300",
+  "source": "mm 45\r"
+ },
+ {
+  "name": "Hobgoblin Warlord",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "goblinoid",
+  "alignment": "LE",
+  "challenge": "6",
+  "xp": "2300",
+  "source": "mm 187\r"
+ },
+ {
+  "name": "Mouth of Grolantor",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "hill giant",
+  "alignment": "CE",
+  "challenge": "6",
+  "xp": "2300",
+  "source": "vgm 149\r"
+ },
+ {
+  "name": "Howler",
+  "size": "Large",
+  "type": "Fiend",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "8",
+  "xp": "3900",
+  "source": "mtf 210\r"
+ },
+ {
+  "name": "Shoosuva",
+  "size": "Large",
+  "type": "Fiend",
+  "tags": "demon",
+  "alignment": "CE",
+  "challenge": "8",
+  "xp": "3900",
+  "source": "vgm 137\r"
+ },
+ {
+  "name": "Sword Wraith Commander",
+  "size": "Medium",
+  "type": "Undead",
+  "tags": "",
+  "alignment": "LE",
+  "challenge": "8",
+  "xp": "3900",
+  "source": "mtf 241\r"
+ },
+ {
+  "name": "Tyrannosaurus Rex",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "8",
+  "xp": "3900",
+  "source": "mm 80\r"
+ },
+ {
+  "name": "Flind",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "gnoll",
+  "alignment": "CE",
+  "challenge": "9",
+  "xp": "5000",
+  "source": "vgm 153\r"
+ },
+ {
+  "name": "Spring Eladrin",
+  "size": "Medium",
+  "type": "Fey",
+  "tags": "elf",
+  "alignment": "CN",
+  "challenge": "10",
+  "xp": "5900",
+  "source": "mtf 196\r"
+ },
+ {
+  "name": "Young Gold Dragon",
+  "size": "Large",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "LG",
+  "challenge": "10",
+  "xp": "5900",
+  "source": "mm 115\r"
+ },
+ {
+  "name": "Eidolon",
+  "size": "Medium",
+  "type": "Undead",
+  "tags": "",
+  "alignment": "Any",
+  "challenge": "12",
+  "xp": "8400",
+  "source": "mtf 194\r"
+ },
+ {
+  "name": "Ki-rin",
+  "size": "Huge",
+  "type": "Celestial",
+  "tags": "",
+  "alignment": "LG",
+  "challenge": "12",
+  "xp": "8400",
+  "source": "vgm 163\r"
+ },
+ {
+  "name": "Cadaver Collector",
+  "size": "Large",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "LE",
+  "challenge": "14",
+  "xp": "11500",
+  "source": "mtf 122\r"
+ },
+ {
+  "name": "Adult Gold Dragon",
+  "size": "Huge",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "LG",
+  "challenge": "17",
+  "xp": "18000",
+  "source": "mm 114\r"
+ },
+ {
+  "name": "Zaratan",
+  "size": "Gargantuan",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "22",
+  "xp": "41000",
+  "source": "mtf 201\r"
+ },
+ {
+  "name": "Elder Tempest",
+  "size": "Gargantuan",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "23",
+  "xp": "50000",
+  "source": "mtf 200\r"
+ },
+ {
+  "name": "Ancient Gold Dragon",
+  "size": "Gargantuan",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "LG",
+  "challenge": "24",
+  "xp": "62000",
+  "source": "mm 113"
+ }
+]

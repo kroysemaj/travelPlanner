@@ -1,0 +1,189 @@
+name ,size ,type ,tags,alignment ,challenge ,xp,source
+Awakened Shrub,Small,Plant,,Unaligned,0,10,mm 317
+Baboon,Small,Beast,,Unaligned,0,10,mm 318
+Badger,Tiny,Beast,,Unaligned,0,10,mm 318
+Cat,Tiny,Beast,,Unaligned,0,10,mm 320
+Commoner,Medium,Humanoid,,Any,0,10,mm 344
+Deer,Medium,Beast,,Unaligned,0,10,mm 321
+Hyena,Medium,Beast,,Unaligned,0,10,mm 331
+Owl,Tiny,Beast,,Unaligned,0,10,mm 333
+Bandit,Medium,Humanoid,,Any non-lawful,1/8,25,mm 343
+Blood Hawk,Small,Beast,,Unaligned,1/8,25,mm 319
+Boggle,Small,Fey,,CN,1/8,25,vgm 128
+Flying Snake,Tiny,Beast,,Unaligned,1/8,25,mm 322
+Giant Rat,Small,Beast,,Unaligned,1/8,25,mm 327
+Giant Weasel,Medium,Beast,,Unaligned,1/8,25,mm 329
+Guard,Medium,Humanoid,,,1/8,25,mm 347
+Kobold,Small,Humanoid,kobold,LE,1/8,25,mm 195
+Mastiff,Medium,Beast,,Unaligned,1/8,25,mm 332
+Poisonous Snake,Tiny,Beast,,Unaligned,1/8,25,mm 334
+Stirge,Tiny,Beast,,Unaligned,1/8,25,mm 284
+Tribal Warrior,Medium,Humanoid,,,1/8,25,mm 350
+Twig Blight,Small,Plant,,NE,1/8,25,mm 32
+Blink Dog,Medium,Fey,,LG,1/4,50,mm 318
+Boar,Medium,Beast,,Unaligned,1/4,50,mm 319
+Constrictor Snake,Large,Beast,,Unaligned,1/4,50,mm 320
+Elk,Large,Beast,,Unaligned,1/4,50,mm 322
+Giant Badger,Medium,Beast,,Unaligned,1/4,50,mm 323
+Giant Bat,Large,Beast,,Unaligned,1/4,50,mm 323
+Giant Frog,Medium,Beast,,Unaligned,1/4,50,mm 325
+Giant Lizard,Large,Beast,,Unaligned,1/4,50,mm 326
+Giant Owl,Large,Beast,,N,1/4,50,mm 327
+Giant Poisonous Snake,Medium,Beast,,Unaligned,1/4,50,mm 327
+Giant Wolf Spider,Medium,Beast,,Unaligned,1/4,50,mm 330
+Gnoll Witherling,Medium,Undead,,CE,1/4,50,vgm 155
+Goblin,Small,Humanoid,goblinoid,NE,1/4,50,mm 166
+Grung,Small,Humanoid,grung,LE,1/4,50,vgm 156
+Kenku,Medium,Humanoid,kenku,CN,1/4,50,mm 194
+Kobold Inventor,Small,Humanoid,kobold,LE,1/4,50,vgm 166
+Needle Blight,Medium,Plant,,NE,1/4,50,mm 32
+Panther,Medium,Beast,,Unaligned,1/4,50,mm 333
+Pixie,Tiny,Fey,,NG,1/4,50,mm 253
+Pseudodragon,Tiny,Dragon,,NG,1/4,50,mm 254
+Sprite,Tiny,Fey,,NG,1/4,50,mm 283
+Swarm of Ravens,Medium,Beast,,Unaligned,1/4,50,mm 339
+Vegepygmy,Small,Plant,,N,1/4,50,vgm 196
+Velociraptor,Tiny,Beast,,Unaligned,1/4,50,vgm 140
+Winged Kobold,Small,Humanoid,kobold,LE,1/4,50,mm 195
+Wolf,Medium,Beast,,Unaligned,1/4,50,mm 341
+Ape,Medium,Beast,,Unaligned,1/2,100,mm 317
+Black Bear,Medium,Beast,,Unaligned,1/2,100,mm 318
+Darkling,Small,Fey,,CN,1/2,100,vgm 134
+Giant Wasp,Medium,Beast,,Unaligned,1/2,100,mm 329
+Gnoll,Medium,Humanoid,gnoll,CE,1/2,100,mm 163
+Gnoll Hunter,Medium,Humanoid,gnoll,CE,1/2,100,vgm 154
+Hobgoblin,Medium,Humanoid,goblinoid,LE,1/2,100,mm 186
+Lizardfolk,Medium,Humanoid,lizardfolk,N,1/2,100,mm 204
+Orc,Medium,Humanoid,orc,CE,1/2,100,mm 246
+Orc Nurtured One of Yurtrus,Medium,Humanoid,orc,CE,1/2,100,vgm 184
+Satyr,Medium,Fey,,CN,1/2,100,mm 267
+Scout,Medium,Humanoid,,,1/2,100,mm 349
+Skulk,Medium,Humanoid,,CN,1/2,100,mtf 227
+Swarm of Insects,Medium,Beast,,Unaligned,1/2,100,mm 338
+Vine Blight,Medium,Plant,,NE,1/2,100,mm 32
+Worg,Large,Monstrosity,,NE,1/2,100,mm 341
+Bronze Scout,Medium,Construct,,Unaligned,1,200,mtf 125
+Brown Bear,Large,Beast,,Unaligned,1,200,mm 319
+Bugbear,Medium,Humanoid,goblinoid,CE,1,200,mm 33
+Choker,Small,Aberration,,CE,1,200,mtf 123
+Deinonychus,Medium,Beast,,Unaligned,1,200,vgm 139
+Dire Wolf,Large,Beast,,Unaligned,1,200,mm 321
+Dryad,Medium,Fey,,N,1,200,mm 121
+Giant Hyena,Large,Beast,,Unaligned,1,200,mm 326
+Giant Spider,Large,Beast,,Unaligned,1,200,mm 328
+Giant Toad,Large,Beast,,Unaligned,1,200,mm 329
+Gnoll Flesh Gnawer,Medium,Humanoid,gnoll,CE,1,200,vgm 154
+Goblin Boss,Small,Humanoid,goblinoid,NE,1,200,mm 166
+Grung Wildling,Small,Humanoid,grung,LE,1,200,vgm 157
+Half-ogre,Large,Giant,,Any chaotic,1,200,mm 238
+Harpy,Medium,Monstrosity,,CE,1,200,mm 181
+Kobold Dragonshield,Small,Humanoid,kobold,LE,1,200,vgm 165
+Kobold Scale Sorcerer,Small,Humanoid,kobold,LE,1,200,vgm 167
+Meazel,Medium,Humanoid,meazel,NE,1,200,mtf 214
+Nilbog,Small,Humanoid,goblinoid,CE,1,200,vgm 182
+Quickling,Tiny,Fey,,CE,1,200,vgm 187
+Thorny,Medium,Plant,,N,1,200,vgm 197
+Tiger,Large,Beast,,Unaligned,1,200,mm 339
+Young Faerie Dragon,Tiny,Dragon,,CG,1,200,mm 133
+Yuan-ti Pureblood,Medium,Humanoid,yuan-ti,NE,1,200,mm 310
+Adult Faerie Dragon,Tiny,Dragon,,CG,2,450,mm 133
+Ankheg,Large,Monstrosity,,Unaligned,2,450,mm 21
+Awakened Tree,Huge,Plant,,Unaligned,2,450,mm 317
+Bandit Captain,Medium,Humanoid,,Any non-lawful,2,450,mm 344
+Berserker,Medium,Humanoid,,Any chaotic,2,450,mm 344
+Centaur,Large,Monstrosity,,NG,2,450,mm 38
+Darkling Elder,Medium,Fey,,CN,2,450,vgm 134
+Druid,Medium,Humanoid,,Any,2,450,mm 346
+Ettercap,Medium,Monstrosity,,NE,2,450,mm 131
+Giant Boar,Large,Beast,,Unaligned,2,450,mm 323
+Giant Constrictor Snake,Huge,Beast,,Unaligned,2,450,mm 324
+Giant Elk,Huge,Beast,,Unaligned,2,450,mm 325
+Gnoll Pack Lord,Medium,Humanoid,gnoll,CE,2,450,mm 163
+Grick,Medium,Monstrosity,,N,2,450,mm 173
+Grung Elite Warrior,Small,Humanoid,grung,LE,2,450,vgm 157
+Guard Drake,Medium,Dragon,,Unaligned,2,450,vgm 158
+Hobgoblin Iron Shadow,Medium,Humanoid,goblinoid,LE,2,450,vgm 162
+Lizardfolk Shaman,Medium,Humanoid,lizardfolk,N,2,450,mm 205
+Meenlock,Small,Fey,,NE,2,450,vgm 170
+Ogre,Large,Giant,,CE,2,450,mm 237
+Orc Eye of Gruumsh,Medium,Humanoid,orc,CE,2,450,mm 247
+Orc Hand of Yurtrus,Medium,Humanoid,orc,CE,2,450,vgm 184
+Orog,Medium,Humanoid,orc,CE,2,450,mm 247
+Pegasus,Large,Celestial,,CG,2,450,mm 250
+Shadow Mastiff,Medium,Monstrosity,NE,NE,2,450,vgm 190
+Swarm of Poisonous Snakes,Medium,Beast,,Unaligned,2,450,mm 338
+Vegepygmy Chief,Small,Plant,,N,2,450,vgm 197
+Wererat,Medium,Humanoid,"human, shapechanger",LE,2,450,mm 209
+Will-o-wisp,Tiny,Undead,,CE,2,450,mm 301
+Yuan-ti Broodguard,Medium,Humanoid,yuan-ti,NE,2,450,vgm 203
+Displacer Beast,Large,Monstrosity,,LE,3,700,mm 81
+Flail Snail,Large,Elemental,,Unaligned,3,700,vgm 144
+Green Hag,Medium,Fey,,NE,3,700,mm 177
+Hobgoblin Captain,Medium,Humanoid,goblinoid,LE,3,700,mm 186
+Orc Red Fang of Shargaas,Medium,Humanoid,orc,CE,3,700,vgm 185
+Owlbear,Large,Monstrosity,,Unaligned,3,700,mm 249
+Phase Spider,Large,Monstrosity,,Unaligned,3,700,mm 334
+Redcap,Small,Fey,,CE,3,700,vgm 188
+Vampiric Mist,Medium,Undead,,CE,3,700,mtf 246
+Veteran,Medium,Humanoid,,,3,700,mm 350
+Werewolf,Medium,Humanoid,"human, shapechanger",CE,3,700,mm 211
+Yuan-ti Malison,Medium,Monstrosity,"shapechanger, yuan-ti",NE,3,700,mm 309
+Banshee,Medium,Undead,,CE,4,1100,mm 23
+Barghest,Large,Fiend,shapechanger,NE,4,1100,vgm 123
+Couatl,Medium,Celestial,,LG,4,1100,mm 43
+Girallon,Large,Monstrosity,,Unaligned,4,1100,vgm 152
+Gnoll Fang of Yeenoghu,Medium,Fiend,gnoll,CE,4,1100,mm 163
+Hobgoblin Devastator,Medium,Humanoid,goblinoid,LE,4,1100,vgm 161
+Iron Cobra,Medium,Construct,,Unaligned,4,1100,mtf 125
+Orc Blade of Ilneval,Medium,Humanoid,orc,CE,4,1100,vgm 183
+Stegosaurus,Huge,Beast,,Unaligned,4,1100,vgm 140
+Stone Defender,Medium,Construct,,Unaligned,4,1100,mtf 126
+Wereboar,Medium,Humanoid,"human, shapechanger",NE,4,1100,mm 209
+Weretiger,Medium,Humanoid,"human, shapechanger",N,4,1100,mm 210
+Yeth Hound,Large,Fey,,NE,4,1100,vgm 201
+Yuan-ti Mind Whisperer,Medium,Monstrosity,"shapechanger, yuan-ti",NE,4,1100,vgm 204
+Yuan-ti Nightmare Speaker,Medium,Monstrosity,"shapechanger, yuan-ti",NE,4,1100,vgm 205
+Brontosaurus,Gargantuan,Beast,,Unaligned,5,1800,vgm 139
+Gorgon,Large,Monstrosity,,Unaligned,5,1800,mm 171
+Oaken Bolter,Medium,Construct,,Unaligned,5,1800,mtf 126
+Revenant,Medium,Undead,,N,5,1800,mm 259
+Shambling Mound,Large,Plant,,Unaligned,5,1800,mm 270
+Troll,Large,Giant,,CE,5,1800,mm 291
+Unicorn,Large,Celestial,,LG,5,1800,mm 294
+Werebear,Medium,Humanoid,"human, shapechanger",NG,5,1800,mm 208
+Wood Woad,Medium,Plant,,LN,5,1800,vgm 198
+Yuan-ti Pit Master,Medium,Monstrosity,"shapechanger, yuan-ti",NE,5,1800,vgm 206
+Hobgoblin Warlord,Medium,Humanoid,goblinoid,LE,6,2300,mm 187
+Giant Ape,Huge,Beast,,Unaligned,7,2900,mm 323
+Grick Alpha,Large,Monstrosity,,N,7,2900,mm 173
+Korred,Small,Fey,,CN,7,2900,vgm 168
+Lost Sorrowsworn,Medium,Monstrosity,,NE,7,2900,mtf 233
+Oni,Large,Giant,,LE,7,2900,mm 239
+Shadow Dancer,Medium,Humanoid,elf,N,7,2900,mtf 225
+Venom Troll,Large,Giant,,CE,7,2900,mtf 245
+Yuan-ti Abomination,Large,Monstrosity,"shapechanger, yuan-ti",NE,7,2900,mm 308
+Corpse Flower,Large,Plant,,CE,8,3900,mtf 127
+Shoosuva,Large,Fiend,demon,CE,8,3900,vgm 137
+Young Green Dragon,Large,Dragon,,LE,8,3900,mm 94
+Flind,Medium,Humanoid,gnoll,CE,9,5000,vgm 153
+Rot Troll,Large,Giant,,CE,9,5000,mtf 244
+Treant,Huge,Plant,,CG,9,5000,mm 289
+Autumn Eladrin,Medium,Fey,elf,CN,10,5900,mtf 195
+Guardian Naga,Large,Monstrosity,,LG,10,5900,mm 234
+Spring Eladrin,Medium,Fey,elf,CN,10,5900,mtf 196
+Summer Eladrin,Medium,Fey,elf,CN,10,5900,mtf 196
+Winter Eladrin,Medium,Fey,elf,CN,10,5900,mtf 197
+Young Gold Dragon,Large,Dragon,,LG,10,5900,mm 115
+Hungry Sorrowsworn,Medium,Monstrosity,,NE,11,7200,mtf 232
+Spirit Troll,Large,Giant,,CE,11,7200,mtf 244
+Eidolon,Medium,Undead,,Any,12,8400,mtf 194
+Gray Render,Large,Monstrosity,,CN,12,8400,mtf 209
+Yuan-ti Anathema,Huge,Monstrosity,"shapechanger, yuan-ti",NE,12,8400,vgm 202
+Dire Troll,Huge,Giant,,CE,13,10000,mtf 243
+Retriever,Large,Construct,,LE,14,11500,mtf 222
+Adult Green Dragon,Huge,Dragon,,LE,15,13000,mm 94
+Adult Gold Dragon,Huge,Dragon,,LG,17,18000,mm 114
+Nagpa,Medium,Humanoid,nagpa,NE,17,18000,mtf 215
+Ancient Green Dragon,Gargantuan,Dragon,,LE,22,41000,mm 93
+Zaratan,Gargantuan,Elemental,,N,22,41000,mtf 201
+Ancient Gold Dragon,Gargantuan,Dragon,,LG,24,62000,mm 113
