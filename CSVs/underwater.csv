@@ -1,0 +1,31 @@
+name ,size ,type ,tags,alignment ,challenge ,xp,source 
+Quipper,Tiny,Beast,,Unaligned,0,10,mm 335
+Dolphin,Medium,Beast,,Unaligned,1/8,25,vgm 208
+Merfolk,Medium,Humanoid,merfolk,N,1/8,25,mm 218
+Constrictor Snake,Large,Beast,,Unaligned,1/4,50,mm 320
+Steam Mephit,Small,Elemental,,NE,1/4,50,mm 217
+Giant Sea Horse,Large,Beast,,Unaligned,1/2,100,mm 328
+Reef Shark,Medium,Beast,,Unaligned,1/2,100,mm 336
+Sahuagin,Medium,Humanoid,sahuagin,LE,1/2,100,mm 263
+Giant Octopus,Large,Beast,,Unaligned,1,200,mm 326
+Sea Spawn,Medium,Humanoid,,NE,1,200,vgm 189
+Swarm of Quippers,Medium,Beast,,Unaligned,1,200,mm 338
+Giant Constrictor Snake,Huge,Beast,,Unaligned,2,450,mm 324
+Hunter Shark,Large,Beast,,Unaligned,2,450,mm 330
+Merrow,Large,Monstrosity,,CE,2,450,mm 219
+Plesiosaurus,Large,Beast,,Unaligned,2,450,mm 80
+Sahuagin Priestess,Medium,Humanoid,sahuagin,LE,2,450,mm 264
+Sea Hag,Medium,Fey,,CE,2,450,mm 179
+Deep Scion,Medium,Humanoid,shapechanger,NE,3,700,vgm 135
+Killer Whale,Huge,Beast,,Unaligned,3,700,mm 331
+Giant Shark,Huge,Beast,,Unaligned,5,1800,mm 328
+Sahuagin Baron,Large,Humanoid,sahuagin,LE,5,1800,mm 264
+Water Elemental,Large,Elemental,,N,5,1800,mm 125
+Marid,Large,Elemental,,CN,11,7200,mm 146
+Morkoth,Medium,Aberration,,CE,11,7200,vgm 178
+Morkoth (in lair),Medium,Aberration,,CE,12,8400,vgm 178
+Wastrilith,Large,Fiend,demon,CE,13,10000,mtf 139
+Storm Giant Quintessent,Huge,Giant,storm giant,CG,16,15000,vgm 151
+Dragon Turtle,Gargantuan,Dragon,,N,17,18000,mm 119
+Leviathan,Gargantuan,Elemental,,N,20,25000,mtf 198
+Kraken,Gargantuan,Monstrosity,titan,CE,23,50000,mm 197

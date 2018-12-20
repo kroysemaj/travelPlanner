@@ -1,0 +1,302 @@
+[
+ {
+  "name": "Quipper",
+  "size": "Tiny",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 335\r"
+ },
+ {
+  "name": "Dolphin",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "vgm 208\r"
+ },
+ {
+  "name": "Merfolk",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "merfolk",
+  "alignment": "N",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 218\r"
+ },
+ {
+  "name": "Constrictor Snake",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 320\r"
+ },
+ {
+  "name": "Steam Mephit",
+  "size": "Small",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 217\r"
+ },
+ {
+  "name": "Giant Sea Horse",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 328\r"
+ },
+ {
+  "name": "Reef Shark",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 336\r"
+ },
+ {
+  "name": "Sahuagin",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "sahuagin",
+  "alignment": "LE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 263\r"
+ },
+ {
+  "name": "Giant Octopus",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 326\r"
+ },
+ {
+  "name": "Sea Spawn",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "vgm 189\r"
+ },
+ {
+  "name": "Swarm of Quippers",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 338\r"
+ },
+ {
+  "name": "Giant Constrictor Snake",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 324\r"
+ },
+ {
+  "name": "Hunter Shark",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 330\r"
+ },
+ {
+  "name": "Merrow",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 219\r"
+ },
+ {
+  "name": "Plesiosaurus",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 80\r"
+ },
+ {
+  "name": "Sahuagin Priestess",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "sahuagin",
+  "alignment": "LE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 264\r"
+ },
+ {
+  "name": "Sea Hag",
+  "size": "Medium",
+  "type": "Fey",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 179\r"
+ },
+ {
+  "name": "Deep Scion",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "shapechanger",
+  "alignment": "NE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "vgm 135\r"
+ },
+ {
+  "name": "Killer Whale",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mm 331\r"
+ },
+ {
+  "name": "Giant Shark",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mm 328\r"
+ },
+ {
+  "name": "Sahuagin Baron",
+  "size": "Large",
+  "type": "Humanoid",
+  "tags": "sahuagin",
+  "alignment": "LE",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mm 264\r"
+ },
+ {
+  "name": "Water Elemental",
+  "size": "Large",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mm 125\r"
+ },
+ {
+  "name": "Marid",
+  "size": "Large",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "CN",
+  "challenge": "11",
+  "xp": "7200",
+  "source": "mm 146\r"
+ },
+ {
+  "name": "Morkoth",
+  "size": "Medium",
+  "type": "Aberration",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "11",
+  "xp": "7200",
+  "source": "vgm 178\r"
+ },
+ {
+  "name": "Morkoth (in lair)",
+  "size": "Medium",
+  "type": "Aberration",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "12",
+  "xp": "8400",
+  "source": "vgm 178\r"
+ },
+ {
+  "name": "Wastrilith",
+  "size": "Large",
+  "type": "Fiend",
+  "tags": "demon",
+  "alignment": "CE",
+  "challenge": "13",
+  "xp": "10000",
+  "source": "mtf 139\r"
+ },
+ {
+  "name": "Storm Giant Quintessent",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "storm giant",
+  "alignment": "CG",
+  "challenge": "16",
+  "xp": "15000",
+  "source": "vgm 151\r"
+ },
+ {
+  "name": "Dragon Turtle",
+  "size": "Gargantuan",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "17",
+  "xp": "18000",
+  "source": "mm 119\r"
+ },
+ {
+  "name": "Leviathan",
+  "size": "Gargantuan",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "20",
+  "xp": "25000",
+  "source": "mtf 198\r"
+ },
+ {
+  "name": "Kraken",
+  "size": "Gargantuan",
+  "type": "Monstrosity",
+  "tags": "titan",
+  "alignment": "CE",
+  "challenge": "23",
+  "xp": "50000",
+  "source": "mm 197"
+ }
+]

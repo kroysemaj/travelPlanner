@@ -1,0 +1,75 @@
+name ,size ,type ,tags,alignment ,challenge ,xp,source 
+Commoner,Medium,Humanoid,,Any,0,10,mm 344
+Crab,Tiny,Beast,,Unaligned,0,10,mm 320
+Eagle,Small,Beast,,Unaligned,0,10,mm 322
+Bandit,Medium,Humanoid,,Any non-lawful,1/8,25,mm 343
+Blood Hawk,Small,Beast,,Unaligned,1/8,25,mm 319
+Dolphin,Medium,Beast,,Unaligned,1/8,25,vgm 208
+Giant Crab,Medium,Beast,,Unaligned,1/8,25,mm 324
+Guard,Medium,Humanoid,,,1/8,25,mm 347
+Kobold,Small,Humanoid,kobold,LE,1/8,25,mm 195
+Merfolk,Medium,Humanoid,merfolk,N,1/8,25,mm 218
+Poisonous Snake,Tiny,Beast,,Unaligned,1/8,25,mm 334
+Stirge,Tiny,Beast,,Unaligned,1/8,25,mm 284
+Tribal Warrior,Medium,Humanoid,,,1/8,25,mm 350
+Dimetrodon,Medium,Beast,,Unaligned,1/4,50,vgm 139
+Giant Lizard,Large,Beast,,Unaligned,1/4,50,mm 326
+Giant Wolf Spider,Medium,Beast,,Unaligned,1/4,50,mm 330
+Pseudodragon,Tiny,Dragon,,NG,1/4,50,mm 254
+Pteranodon,Medium,Beast,,Unaligned,1/4,50,mm 80
+Tortle,Medium,Humanoid,tortle,LG,1/4,50,mtf 242
+Winged Kobold,Small,Humanoid,kobold,LE,1/4,50,mm 195
+Sahuagin,Medium,Humanoid,sahuagin,LE,1/2,100,mm 263
+Scout,Medium,Humanoid,,,1/2,100,mm 349
+Skulk,Medium,Humanoid,,CN,1/2,100,mtf 227
+Giant Eagle,Large,Beast,,NG,1,200,mm 324
+Giant Toad,Large,Beast,,Unaligned,1,200,mm 329
+Harpy,Medium,Monstrosity,,CE,1,200,mm 181
+Sea Spawn,Medium,Humanoid,,NE,1,200,vgm 189
+Bandit Captain,Medium,Humanoid,,Any non-lawful,2,450,mm 344
+Berserker,Medium,Humanoid,,Any chaotic,2,450,mm 344
+Druid,Medium,Humanoid,,Any,2,450,mm 346
+Griffon,Large,Monstrosity,,Unaligned,2,450,mm 174
+Merrow,Large,Monstrosity,,CE,2,450,mm 219
+Ogre,Large,Giant,,CE,2,450,mm 237
+Plesiosaurus,Large,Beast,,Unaligned,2,450,mm 80
+Quetzalcoatlus,Huge,Beast,,Unaligned,2,450,vgm 140
+Sahuagin Priestess,Medium,Humanoid,sahuagin,LE,2,450,mm 264
+Sea Hag,Medium,Fey,,CE,2,450,mm 179
+Tortle Druid,Medium,Humanoid,tortle,LN,2,450,mtf 242
+Deep Scion,Medium,Humanoid,shapechanger,NE,3,700,vgm 135
+Manticore,Large,Monstrosity,,LE,3,700,mm 213
+Merrenoloth,Medium,Fiend,yugoloth,NE,3,700,mtf 250
+Vampiric Mist,Medium,Undead,,CE,3,700,mtf 246
+Veteran,Medium,Humanoid,,,3,700,mm 350
+Banshee,Medium,Undead,,CE,4,1100,mm 23
+Sahuagin Baron,Large,Humanoid,sahuagin,LE,5,1800,mm 264
+Water Elemental,Large,Elemental,,N,5,1800,mm 125
+Cyclops,Huge,Giant,,CN,6,2300,mm 45
+Canoloth,Medium,Fiend,yugoloth,NE,8,3900,mtf 247
+Young Bronze Dragon,Large,Dragon,,LG,8,3900,mm 108
+Lonely Sorrowsworn,Medium,Monstrosity,,NE,9,5000,mtf 232
+Young Blue Dragon,Large,Dragon,,LE,9,5000,mm 91
+Stone Giant Dreamwalker,Huge,Giant,stone giant,CN,10,5900,vgm 150
+Balhannoth,Large,Aberration,,CE,11,7200,mtf 118
+Djinni,Large,Elemental,,CG,11,7200,mm 144
+Marid,Large,Elemental,,CN,11,7200,mm 146
+Morkoth,Medium,Aberration,,CE,11,7200,vgm 178
+Roc,Gargantuan,Monstrosity,,Unaligned,11,7200,mm 260
+Spirit Troll,Large,Giant,,CE,11,7200,mtf 244
+Eidolon,Medium,Undead,,Any,12,8400,mtf 194
+Frost Giant Everlasting One,Huge,Giant,frost giant,CE,12,8400,vgm 148
+Ki-rin,Huge,Celestial,,LG,12,8400,vgm 163
+Morkoth (in lair),Medium,Aberration,,CE,12,8400,vgm 178
+Storm Giant,Huge,Giant,,CG,13,10000,mm 156
+Wastrilith,Large,Fiend,demon,CE,13,10000,mtf 139
+Adult Bronze Dragon,Huge,Dragon,,LG,15,13000,mm 108
+Adult Blue Dragon,Huge,Dragon,,LE,16,15000,mm 91
+Storm Giant Quintessent,Huge,Giant,storm giant,CG,16,15000,vgm 151
+Blue Abishai,Medium,Fiend,devil,LE,17,18000,mtf 161
+Dragon Turtle,Gargantuan,Dragon,,N,17,18000,mm 119
+Nagpa,Medium,Humanoid,nagpa,NE,17,18000,mtf 215
+Leviathan,Gargantuan,Elemental,,N,20,25000,mtf 198
+Ancient Bronze Dragon,Gargantuan,Dragon,,LG,22,41000,mm 107
+Ancient Blue Dragon,Gargantuan,Dragon,,LE,23,50000,mm 90
+Elder Tempest,Gargantuan,Elemental,,N,23,50000,mtf 200

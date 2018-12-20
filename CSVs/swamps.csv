@@ -1,0 +1,87 @@
+name ,size ,type ,tags,alignment ,challenge ,xp,source 
+Rat,Tiny,Beast,,Unaligned,0,10,mm 335
+Raven,Tiny,Beast,,Unaligned,0,10,mm 335
+Giant Rat,Small,Beast,,Unaligned,1/8,25,mm 327
+Kobold,Small,Humanoid,kobold,LE,1/8,25,mm 195
+Poisonous Snake,Tiny,Beast,,Unaligned,1/8,25,mm 334
+Stirge,Tiny,Beast,,Unaligned,1/8,25,mm 284
+Tribal Warrior,Medium,Humanoid,,,1/8,25,mm 350
+Bullywug,Medium,Humanoid,bullywug,NE,1/4,50,mm 35
+Constrictor Snake,Large,Beast,,Unaligned,1/4,50,mm 320
+Dimetrodon,Medium,Beast,,Unaligned,1/4,50,vgm 139
+Giant Frog,Medium,Beast,,Unaligned,1/4,50,mm 325
+Giant Lizard,Large,Beast,,Unaligned,1/4,50,mm 326
+Giant Poisonous Snake,Medium,Beast,,Unaligned,1/4,50,mm 327
+Hadrosaurus,Large,Beast,,Unaligned,1/4,50,vgm 140
+Mud Mephit,Small,Elemental,,NE,1/4,50,mm 216
+Oblex Spawn,Tiny,Ooze,,LE,1/4,50,mtf 217
+Star Spawn Grue,Small,Aberration,,NE,1/4,50,mtf 234
+Swarm of Rats,Medium,Beast,,Unaligned,1/4,50,mm 339
+Swarm of Ravens,Medium,Beast,,Unaligned,1/4,50,mm 339
+Vegepygmy,Small,Plant,,N,1/4,50,vgm 196
+Winged Kobold,Small,Humanoid,kobold,LE,1/4,50,mm 195
+Wretched Sorrowsworn,Small,Monstrosity,,NE,1/4,50,mtf 233
+Crocodile,Large,Beast,,Unaligned,1/2,100,mm 320
+Darkling,Small,Fey,,CN,1/2,100,vgm 134
+Lizardfolk,Medium,Humanoid,lizardfolk,N,1/2,100,mm 204
+Orc,Medium,Humanoid,orc,CE,1/2,100,mm 246
+Scout,Medium,Humanoid,,,1/2,100,mm 349
+Skulk,Medium,Humanoid,,CN,1/2,100,mtf 227
+Swarm of Insects,Medium,Beast,,Unaligned,1/2,100,mm 338
+Swarm of Rot Grubs,Medium,Beast,,Unaligned,1/2,100,vgm 208
+Ghoul,Medium,Undead,,CE,1,200,mm 148
+Giant Spider,Large,Beast,,Unaligned,1,200,mm 328
+Giant Toad,Large,Beast,,Unaligned,1,200,mm 329
+Meazel,Medium,Humanoid,meazel,NE,1,200,mtf 214
+Thorny,Medium,Plant,,N,1,200,vgm 197
+Vargouille,Tiny,Fiend,,CE,1,200,vgm 195
+Yuan-ti Pureblood,Medium,Humanoid,yuan-ti,NE,1,200,mm 310
+Darkling Elder,Medium,Fey,,CN,2,450,vgm 134
+Druid,Medium,Humanoid,,Any,2,450,mm 346
+Ghast,Medium,Undead,,CE,2,450,mm 148
+Giant Constrictor Snake,Huge,Beast,,Unaligned,2,450,mm 324
+Guard Drake,Medium,Dragon,,Unaligned,2,450,vgm 158
+Lizardfolk Shaman,Medium,Humanoid,lizardfolk,N,2,450,mm 205
+Meenlock,Small,Fey,,NE,2,450,vgm 170
+Ogre,Large,Giant,,CE,2,450,mm 237
+Orc Eye of Gruumsh,Medium,Humanoid,orc,CE,2,450,mm 247
+Shadow Mastiff,Medium,Monstrosity,NE,NE,2,450,vgm 190
+Swarm of Poisonous Snakes,Medium,Beast,,Unaligned,2,450,mm 338
+Vegepygmy Chief,Small,Plant,,N,2,450,vgm 197
+Will-o-wisp,Tiny,Undead,,CE,2,450,mm 301
+Flail Snail,Large,Elemental,,Unaligned,3,700,vgm 144
+Green Hag,Medium,Fey,,NE,3,700,mm 177
+Redcap,Small,Fey,,CE,3,700,vgm 188
+Sword Wraith Warrior,Medium,Undead,,LE,3,700,mtf 241
+Vampiric Mist,Medium,Undead,,CE,3,700,mtf 246
+Wight,Medium,Undead,,NE,3,700,mm 300
+Yuan-ti Malison,Medium,Monstrosity,"shapechanger, yuan-ti",NE,3,700,mm 309
+Adult Oblex,Medium,Ooze,,LE,5,1800,mtf 218
+Allip,Medium,Undead,,NE,5,1800,mtf 116
+Catoblepas,Large,Monstrosity,,Unaligned,5,1800,vgm 129
+Giant Crocodile,Huge,Beast,,Unaligned,5,1800,mm 324
+Revenant,Medium,Undead,,N,5,1800,mm 259
+Shambling Mound,Large,Plant,,Unaligned,5,1800,mm 270
+Troll,Large,Giant,,CE,5,1800,mm 291
+Water Elemental,Large,Elemental,,N,5,1800,mm 125
+Bodak,Medium,Undead,,CE,6,2300,vgm 127
+Lost Sorrowsworn,Medium,Monstrosity,,NE,7,2900,mtf 233
+Maurezhi,Medium,Fiend,demon,CE,7,2900,mtf 133
+Venom Troll,Large,Giant,,CE,7,2900,mtf 245
+Young Black Dragon,Large,Dragon,,CE,7,2900,mm 88
+Yuan-ti Abomination,Large,Monstrosity,"shapechanger, yuan-ti",NE,7,2900,mm 308
+Corpse Flower,Large,Plant,,CE,8,3900,mtf 127
+Hydra,Huge,Monstrosity,,Unaligned,8,3900,mm 190
+Sword Wraith Commander,Medium,Undead,,LE,8,3900,mtf 241
+Rot Troll,Large,Giant,,CE,9,5000,mtf 244
+Elder Oblex,Huge,Ooze,,LE,10,5900,mtf 219
+Froghemoth,Huge,Monstrosity,,Unaligned,10,5900,vgm 145
+Spirit Troll,Large,Giant,,CE,11,7200,mtf 244
+Star Spawn Seer,Medium,Aberration,,NE,13,10000,mtf 236
+Wastrilith,Large,Fiend,demon,CE,13,10000,mtf 139
+Adult Black Dragon,Huge,Dragon,,CE,14,11500,mm 88
+Nabassu,Medium,Fiend,demon,CE,15,13000,mtf 135
+Skull Lord,Medium,Undead,,LE,15,13000,mtf 230
+Nagpa,Medium,Humanoid,nagpa,NE,17,18000,mtf 215
+Nightwalker,Huge,Undead,,CE,20,25000,mtf 216
+Ancient Black Dragon,Gargantuan,Dragon,,CE,21,33000,mm 87

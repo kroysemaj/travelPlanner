@@ -1,0 +1,116 @@
+name ,size ,type ,tags,alignment ,challenge ,xp,source 
+Eagle,Small,Beast,,Unaligned,0,10,mm 322
+Goat,Medium,Beast,,Unaligned,0,10,mm 330
+Blood Hawk,Small,Beast,,Unaligned,1/8,25,mm 319
+Guard,Medium,Humanoid,,,1/8,25,mm 347
+Kobold,Small,Humanoid,kobold,LE,1/8,25,mm 195
+Stirge,Tiny,Beast,,Unaligned,1/8,25,mm 284
+Tribal Warrior,Medium,Humanoid,,,1/8,25,mm 350
+Young Kruthik,Small,Monstrosity,,Unaligned,1/8,25,mtf 211
+Aarakocra,Medium,Humanoid,aarakocra,NG,1/4,50,mm 12
+Derro,Small,Humanoid,derro,CE,1/4,50,mtf 158
+Kobold Inventor,Small,Humanoid,kobold,LE,1/4,50,vgm 166
+Pseudodragon,Tiny,Dragon,,NG,1/4,50,mm 254
+Pteranodon,Medium,Beast,,Unaligned,1/4,50,mm 80
+Star Spawn Grue,Small,Aberration,,NE,1/4,50,mtf 234
+Swarm of Bats,Medium,Beast,,Unaligned,1/4,50,mm 337
+Winged Kobold,Small,Humanoid,kobold,LE,1/4,50,mm 195
+Firenewt Warrior,Medium,Humanoid,firenewt,NE,1/2,100,vgm 142
+Giant Goat,Large,Beast,,Unaligned,1/2,100,mm 326
+Orc,Medium,Humanoid,orc,CE,1/2,100,mm 246
+Orc Nurtured One of Yurtrus,Medium,Humanoid,orc,CE,1/2,100,vgm 184
+Scout,Medium,Humanoid,,,1/2,100,mm 349
+Bronze Scout,Medium,Construct,,Unaligned,1,200,mtf 125
+Choker,Small,Aberration,,CE,1,200,mtf 123
+Duergar Soulblade,Medium,Humanoid,dwarf,LE,1,200,mtf 190
+Firenewt Warlock of Imix,Medium,Humanoid,firenewt,NE,1,200,vgm 143
+Giant Eagle,Large,Beast,,NG,1,200,mm 324
+Giant Strider,Large,Monstrosity,,NE,1,200,vgm 143
+Half-ogre,Large,Giant,,Any chaotic,1,200,mm 238
+Harpy,Medium,Monstrosity,,CE,1,200,mm 181
+Hippogriff,Large,Monstrosity,,Unaligned,1,200,mm 184
+Kobold Dragonshield,Small,Humanoid,kobold,LE,1,200,vgm 165
+Kobold Scale Sorcerer,Small,Humanoid,kobold,LE,1,200,vgm 167
+Lion,Large,Beast,,Unaligned,1,200,mm 331
+Meazel,Medium,Humanoid,meazel,NE,1,200,mtf 214
+Stone Cursed,Medium,Construct,,LE,1,200,mtf 240
+Adult Kruthik,Medium,Monstrosity,,Unaligned,2,450,mtf 212
+Aurochs,Large,Beast,,Unaligned,2,450,vgm 207
+Berserker,Medium,Humanoid,,Any chaotic,2,450,mm 344
+Druid,Medium,Humanoid,,Any,2,450,mm 346
+Duergar Hammerer,Medium,Construct,,LE,2,450,mtf 188
+Duergar Kavalrachni,Medium,Humanoid,dwarf,LE,2,450,mtf 189
+Duergar Mind Master,Medium,Humanoid,dwarf,LE,2,450,mtf 189
+Duergar Stone Guard,Medium,Humanoid,dwarf,LE,2,450,mtf 191
+Duergar Xarrorn,Medium,Humanoid,dwarf,LE,2,450,mtf 193
+Giant Elk,Huge,Beast,,Unaligned,2,450,mm 325
+Griffon,Large,Monstrosity,,Unaligned,2,450,mm 174
+Guard Drake,Medium,Dragon,,Unaligned,2,450,vgm 158
+Ogre,Large,Giant,,CE,2,450,mm 237
+Ogre Bolt Launcher,Large,Giant,,CE,2,450,mtf 220
+Ogre Howdah,Large,Giant,,CE,2,450,mtf 221
+Orc Claw of Luthic,Medium,Humanoid,orc,CE,2,450,vgm 183
+Orc Eye of Gruumsh,Medium,Humanoid,orc,CE,2,450,mm 247
+Orc Hand of Yurtrus,Medium,Humanoid,orc,CE,2,450,vgm 184
+Orog,Medium,Humanoid,orc,CE,2,450,mm 247
+Peryton,Medium,Monstrosity,,CE,2,450,mm 251
+Quetzalcoatlus,Huge,Beast,,Unaligned,2,450,vgm 140
+Saber-toothed Tiger,Large,Beast,,Unaligned,2,450,mm 336
+Basilisk,Medium,Monstrosity,,Unaligned,3,700,mm 24
+Duergar Screamer,Medium,Construct,,LE,3,700,mtf 190
+Hell Hound,Medium,Fiend,,LE,3,700,mm 182
+Manticore,Large,Monstrosity,,LE,3,700,mm 213
+Ogre Chain Brute,Large,Giant,,CE,3,700,mtf 221
+Orc Red Fang of Shargaas,Medium,Humanoid,orc,CE,3,700,vgm 185
+Vampiric Mist,Medium,Undead,,CE,3,700,mtf 246
+Veteran,Medium,Humanoid,,,3,700,mm 350
+Barghest,Large,Fiend,shapechanger,NE,4,1100,vgm 123
+Ettin,Large,Giant,,CE,4,1100,mm 132
+Iron Cobra,Medium,Construct,,Unaligned,4,1100,mtf 125
+Ogre Battering Ram,Large,Giant,,CE,4,1100,mtf 220
+Orc Blade of Ilneval,Medium,Humanoid,orc,CE,4,1100,vgm 183
+Stone Defender,Medium,Construct,,Unaligned,4,1100,mtf 126
+Air Elemental,Large,Elemental,,N,5,1800,mm 124
+Bulette,Large,Monstrosity,,Unaligned,5,1800,mm 34
+Kruthik Hive Lord,Large,Monstrosity,,Unaligned,5,1800,mtf 212
+Oaken Bolter,Medium,Construct,,Unaligned,5,1800,mtf 126
+Tanarukk,Medium,Fiend,"demon, orc",CE,5,1800,vgm 186
+Troll,Large,Giant,,CE,5,1800,mm 291
+Annis Hag,Large,Fey,,CE,6,2300,vgm 159
+Chimera,Large,Monstrosity,,CE,6,2300,mm 39
+Cyclops,Huge,Giant,,CN,6,2300,mm 45
+Duergar Warlord,Medium,Humanoid,dwarf,LE,6,2300,mtf 192
+Galeb Duhr,Medium,Elemental,,N,6,2300,mm 139
+Wyvern,Large,Dragon,,Unaligned,6,2300,mm 303
+Lost Sorrowsworn,Medium,Monstrosity,,NE,7,2900,mtf 233
+Stone Giant,Huge,Giant,,N,7,2900,mm 156
+Frost Giant,Huge,Giant,,NE,8,3900,mm 155
+Cloud Giant,Huge,Giant,,NG or NE,9,5000,mm 154
+Fire Giant,Huge,Giant,,LE,9,5000,mm 154
+Lonely Sorrowsworn,Medium,Monstrosity,,NE,9,5000,mtf 232
+Young Silver Dragon,Large,Dragon,,LG,9,5000,mm 118
+Githyanki Gish,Medium,Humanoid,gith,LE,10,5900,mtf 205
+Githzerai Enlightened,Medium,Humanoid,gith,LN,10,5900,mtf 208
+Stone Giant Dreamwalker,Huge,Giant,stone giant,CN,10,5900,vgm 150
+Young Red Dragon,Large,Dragon,,CE,10,5900,mm 98
+Balhannoth,Large,Aberration,,CE,11,7200,mtf 118
+Cloud Giant Smiling One,Huge,Giant,cloud giant,CN,11,7200,vgm 146
+Roc,Gargantuan,Monstrosity,,Unaligned,11,7200,mm 260
+Duergar Despot,Medium,Humanoid,dwarf,LE,12,8400,mtf 188
+Eidolon,Medium,Undead,,Any,12,8400,mtf 194
+Githyanki Kith'rak,Medium,Humanoid,gith,LE,12,8400,mtf 205
+Ki-rin,Huge,Celestial,,LG,12,8400,vgm 163
+Dire Troll,Huge,Giant,,CE,13,10000,mtf 243
+Star Spawn Seer,Medium,Aberration,,NE,13,10000,mtf 236
+Fire Giant Dreadnought,Huge,Giant,fire giant,LE,14,11500,vgm 147
+Githyanki Supreme Commander,Medium,Humanoid,gith,LE,14,11500,mtf 206
+Adult Silver Dragon,Huge,Dragon,,LG,16,15000,mm 117
+Phoenix,Gargantuan,Elemental,,N,16,15000,mtf 199
+Star Spawn Larva Mage,Medium,Aberration,,CE,16,15000,mtf 235
+Storm Giant Quintessent,Huge,Giant,storm giant,CG,16,15000,vgm 151
+Adult Red Dragon,Huge,Dragon,,CE,17,18000,mm 98
+Red Abishai,Medium,Fiend,devil,LE,19,22000,mtf 162
+Zaratan,Gargantuan,Elemental,,N,22,41000,mtf 201
+Ancient Silver Dragon,Gargantuan,Dragon,,LG,23,50000,mm 116
+Elder Tempest,Gargantuan,Elemental,,N,23,50000,mtf 200
+Ancient Red Dragon,Gargantuan,Dragon,,CE,24,62000,mm 97

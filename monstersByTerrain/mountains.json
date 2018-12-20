@@ -1,0 +1,1152 @@
+[
+ {
+  "name": "Eagle",
+  "size": "Small",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 322\r"
+ },
+ {
+  "name": "Goat",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "0",
+  "xp": "10",
+  "source": "mm 330\r"
+ },
+ {
+  "name": "Blood Hawk",
+  "size": "Small",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 319\r"
+ },
+ {
+  "name": "Guard",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 347\r"
+ },
+ {
+  "name": "Kobold",
+  "size": "Small",
+  "type": "Humanoid",
+  "tags": "kobold",
+  "alignment": "LE",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 195\r"
+ },
+ {
+  "name": "Stirge",
+  "size": "Tiny",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 284\r"
+ },
+ {
+  "name": "Tribal Warrior",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mm 350\r"
+ },
+ {
+  "name": "Young Kruthik",
+  "size": "Small",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/8",
+  "xp": "25",
+  "source": "mtf 211\r"
+ },
+ {
+  "name": "Aarakocra",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "aarakocra",
+  "alignment": "NG",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 12\r"
+ },
+ {
+  "name": "Derro",
+  "size": "Small",
+  "type": "Humanoid",
+  "tags": "derro",
+  "alignment": "CE",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mtf 158\r"
+ },
+ {
+  "name": "Kobold Inventor",
+  "size": "Small",
+  "type": "Humanoid",
+  "tags": "kobold",
+  "alignment": "LE",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "vgm 166\r"
+ },
+ {
+  "name": "Pseudodragon",
+  "size": "Tiny",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "NG",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 254\r"
+ },
+ {
+  "name": "Pteranodon",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 80\r"
+ },
+ {
+  "name": "Star Spawn Grue",
+  "size": "Small",
+  "type": "Aberration",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mtf 234\r"
+ },
+ {
+  "name": "Swarm of Bats",
+  "size": "Medium",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 337\r"
+ },
+ {
+  "name": "Winged Kobold",
+  "size": "Small",
+  "type": "Humanoid",
+  "tags": "kobold",
+  "alignment": "LE",
+  "challenge": "1/4",
+  "xp": "50",
+  "source": "mm 195\r"
+ },
+ {
+  "name": "Firenewt Warrior",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "firenewt",
+  "alignment": "NE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "vgm 142\r"
+ },
+ {
+  "name": "Giant Goat",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 326\r"
+ },
+ {
+  "name": "Orc",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 246\r"
+ },
+ {
+  "name": "Orc Nurtured One of Yurtrus",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "vgm 184\r"
+ },
+ {
+  "name": "Scout",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "",
+  "challenge": "1/2",
+  "xp": "100",
+  "source": "mm 349\r"
+ },
+ {
+  "name": "Bronze Scout",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mtf 125\r"
+ },
+ {
+  "name": "Choker",
+  "size": "Small",
+  "type": "Aberration",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mtf 123\r"
+ },
+ {
+  "name": "Duergar Soulblade",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "dwarf",
+  "alignment": "LE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mtf 190\r"
+ },
+ {
+  "name": "Firenewt Warlock of Imix",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "firenewt",
+  "alignment": "NE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "vgm 143\r"
+ },
+ {
+  "name": "Giant Eagle",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "NG",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 324\r"
+ },
+ {
+  "name": "Giant Strider",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "vgm 143\r"
+ },
+ {
+  "name": "Half-ogre",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "Any chaotic",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 238\r"
+ },
+ {
+  "name": "Harpy",
+  "size": "Medium",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 181\r"
+ },
+ {
+  "name": "Hippogriff",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 184\r"
+ },
+ {
+  "name": "Kobold Dragonshield",
+  "size": "Small",
+  "type": "Humanoid",
+  "tags": "kobold",
+  "alignment": "LE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "vgm 165\r"
+ },
+ {
+  "name": "Kobold Scale Sorcerer",
+  "size": "Small",
+  "type": "Humanoid",
+  "tags": "kobold",
+  "alignment": "LE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "vgm 167\r"
+ },
+ {
+  "name": "Lion",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mm 331\r"
+ },
+ {
+  "name": "Meazel",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "meazel",
+  "alignment": "NE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mtf 214\r"
+ },
+ {
+  "name": "Stone Cursed",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "LE",
+  "challenge": "1",
+  "xp": "200",
+  "source": "mtf 240\r"
+ },
+ {
+  "name": "Adult Kruthik",
+  "size": "Medium",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mtf 212\r"
+ },
+ {
+  "name": "Aurochs",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "vgm 207\r"
+ },
+ {
+  "name": "Berserker",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "Any chaotic",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 344\r"
+ },
+ {
+  "name": "Druid",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "Any",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 346\r"
+ },
+ {
+  "name": "Duergar Hammerer",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "LE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mtf 188\r"
+ },
+ {
+  "name": "Duergar Kavalrachni",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "dwarf",
+  "alignment": "LE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mtf 189\r"
+ },
+ {
+  "name": "Duergar Mind Master",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "dwarf",
+  "alignment": "LE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mtf 189\r"
+ },
+ {
+  "name": "Duergar Stone Guard",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "dwarf",
+  "alignment": "LE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mtf 191\r"
+ },
+ {
+  "name": "Duergar Xarrorn",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "dwarf",
+  "alignment": "LE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mtf 193\r"
+ },
+ {
+  "name": "Giant Elk",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 325\r"
+ },
+ {
+  "name": "Griffon",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 174\r"
+ },
+ {
+  "name": "Guard Drake",
+  "size": "Medium",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "vgm 158\r"
+ },
+ {
+  "name": "Ogre",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 237\r"
+ },
+ {
+  "name": "Ogre Bolt Launcher",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mtf 220\r"
+ },
+ {
+  "name": "Ogre Howdah",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mtf 221\r"
+ },
+ {
+  "name": "Orc Claw of Luthic",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "vgm 183\r"
+ },
+ {
+  "name": "Orc Eye of Gruumsh",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 247\r"
+ },
+ {
+  "name": "Orc Hand of Yurtrus",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "vgm 184\r"
+ },
+ {
+  "name": "Orog",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 247\r"
+ },
+ {
+  "name": "Peryton",
+  "size": "Medium",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 251\r"
+ },
+ {
+  "name": "Quetzalcoatlus",
+  "size": "Huge",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "vgm 140\r"
+ },
+ {
+  "name": "Saber-toothed Tiger",
+  "size": "Large",
+  "type": "Beast",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "2",
+  "xp": "450",
+  "source": "mm 336\r"
+ },
+ {
+  "name": "Basilisk",
+  "size": "Medium",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mm 24\r"
+ },
+ {
+  "name": "Duergar Screamer",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "LE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mtf 190\r"
+ },
+ {
+  "name": "Hell Hound",
+  "size": "Medium",
+  "type": "Fiend",
+  "tags": "",
+  "alignment": "LE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mm 182\r"
+ },
+ {
+  "name": "Manticore",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "LE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mm 213\r"
+ },
+ {
+  "name": "Ogre Chain Brute",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mtf 221\r"
+ },
+ {
+  "name": "Orc Red Fang of Shargaas",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "vgm 185\r"
+ },
+ {
+  "name": "Vampiric Mist",
+  "size": "Medium",
+  "type": "Undead",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mtf 246\r"
+ },
+ {
+  "name": "Veteran",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "",
+  "alignment": "",
+  "challenge": "3",
+  "xp": "700",
+  "source": "mm 350\r"
+ },
+ {
+  "name": "Barghest",
+  "size": "Large",
+  "type": "Fiend",
+  "tags": "shapechanger",
+  "alignment": "NE",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "vgm 123\r"
+ },
+ {
+  "name": "Ettin",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "mm 132\r"
+ },
+ {
+  "name": "Iron Cobra",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "mtf 125\r"
+ },
+ {
+  "name": "Ogre Battering Ram",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "mtf 220\r"
+ },
+ {
+  "name": "Orc Blade of Ilneval",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "orc",
+  "alignment": "CE",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "vgm 183\r"
+ },
+ {
+  "name": "Stone Defender",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "4",
+  "xp": "1100",
+  "source": "mtf 126\r"
+ },
+ {
+  "name": "Air Elemental",
+  "size": "Large",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mm 124\r"
+ },
+ {
+  "name": "Bulette",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mm 34\r"
+ },
+ {
+  "name": "Kruthik Hive Lord",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mtf 212\r"
+ },
+ {
+  "name": "Oaken Bolter",
+  "size": "Medium",
+  "type": "Construct",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mtf 126\r"
+ },
+ {
+  "name": "Tanarukk",
+  "size": "Medium",
+  "type": "Fiend",
+  "tags": "\"demon",
+  "alignment": " orc\"",
+  "challenge": "CE",
+  "xp": "5",
+  "source": "1800"
+ },
+ {
+  "name": "Troll",
+  "size": "Large",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "5",
+  "xp": "1800",
+  "source": "mm 291\r"
+ },
+ {
+  "name": "Annis Hag",
+  "size": "Large",
+  "type": "Fey",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "6",
+  "xp": "2300",
+  "source": "vgm 159\r"
+ },
+ {
+  "name": "Chimera",
+  "size": "Large",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "6",
+  "xp": "2300",
+  "source": "mm 39\r"
+ },
+ {
+  "name": "Cyclops",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CN",
+  "challenge": "6",
+  "xp": "2300",
+  "source": "mm 45\r"
+ },
+ {
+  "name": "Duergar Warlord",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "dwarf",
+  "alignment": "LE",
+  "challenge": "6",
+  "xp": "2300",
+  "source": "mtf 192\r"
+ },
+ {
+  "name": "Galeb Duhr",
+  "size": "Medium",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "6",
+  "xp": "2300",
+  "source": "mm 139\r"
+ },
+ {
+  "name": "Wyvern",
+  "size": "Large",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "6",
+  "xp": "2300",
+  "source": "mm 303\r"
+ },
+ {
+  "name": "Lost Sorrowsworn",
+  "size": "Medium",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "7",
+  "xp": "2900",
+  "source": "mtf 233\r"
+ },
+ {
+  "name": "Stone Giant",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "7",
+  "xp": "2900",
+  "source": "mm 156\r"
+ },
+ {
+  "name": "Frost Giant",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "8",
+  "xp": "3900",
+  "source": "mm 155\r"
+ },
+ {
+  "name": "Cloud Giant",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "NG or NE",
+  "challenge": "9",
+  "xp": "5000",
+  "source": "mm 154\r"
+ },
+ {
+  "name": "Fire Giant",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "LE",
+  "challenge": "9",
+  "xp": "5000",
+  "source": "mm 154\r"
+ },
+ {
+  "name": "Lonely Sorrowsworn",
+  "size": "Medium",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "9",
+  "xp": "5000",
+  "source": "mtf 232\r"
+ },
+ {
+  "name": "Young Silver Dragon",
+  "size": "Large",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "LG",
+  "challenge": "9",
+  "xp": "5000",
+  "source": "mm 118\r"
+ },
+ {
+  "name": "Githyanki Gish",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "gith",
+  "alignment": "LE",
+  "challenge": "10",
+  "xp": "5900",
+  "source": "mtf 205\r"
+ },
+ {
+  "name": "Githzerai Enlightened",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "gith",
+  "alignment": "LN",
+  "challenge": "10",
+  "xp": "5900",
+  "source": "mtf 208\r"
+ },
+ {
+  "name": "Stone Giant Dreamwalker",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "stone giant",
+  "alignment": "CN",
+  "challenge": "10",
+  "xp": "5900",
+  "source": "vgm 150\r"
+ },
+ {
+  "name": "Young Red Dragon",
+  "size": "Large",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "10",
+  "xp": "5900",
+  "source": "mm 98\r"
+ },
+ {
+  "name": "Balhannoth",
+  "size": "Large",
+  "type": "Aberration",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "11",
+  "xp": "7200",
+  "source": "mtf 118\r"
+ },
+ {
+  "name": "Cloud Giant Smiling One",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "cloud giant",
+  "alignment": "CN",
+  "challenge": "11",
+  "xp": "7200",
+  "source": "vgm 146\r"
+ },
+ {
+  "name": "Roc",
+  "size": "Gargantuan",
+  "type": "Monstrosity",
+  "tags": "",
+  "alignment": "Unaligned",
+  "challenge": "11",
+  "xp": "7200",
+  "source": "mm 260\r"
+ },
+ {
+  "name": "Duergar Despot",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "dwarf",
+  "alignment": "LE",
+  "challenge": "12",
+  "xp": "8400",
+  "source": "mtf 188\r"
+ },
+ {
+  "name": "Eidolon",
+  "size": "Medium",
+  "type": "Undead",
+  "tags": "",
+  "alignment": "Any",
+  "challenge": "12",
+  "xp": "8400",
+  "source": "mtf 194\r"
+ },
+ {
+  "name": "Githyanki Kith'rak",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "gith",
+  "alignment": "LE",
+  "challenge": "12",
+  "xp": "8400",
+  "source": "mtf 205\r"
+ },
+ {
+  "name": "Ki-rin",
+  "size": "Huge",
+  "type": "Celestial",
+  "tags": "",
+  "alignment": "LG",
+  "challenge": "12",
+  "xp": "8400",
+  "source": "vgm 163\r"
+ },
+ {
+  "name": "Dire Troll",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "13",
+  "xp": "10000",
+  "source": "mtf 243\r"
+ },
+ {
+  "name": "Star Spawn Seer",
+  "size": "Medium",
+  "type": "Aberration",
+  "tags": "",
+  "alignment": "NE",
+  "challenge": "13",
+  "xp": "10000",
+  "source": "mtf 236\r"
+ },
+ {
+  "name": "Fire Giant Dreadnought",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "fire giant",
+  "alignment": "LE",
+  "challenge": "14",
+  "xp": "11500",
+  "source": "vgm 147\r"
+ },
+ {
+  "name": "Githyanki Supreme Commander",
+  "size": "Medium",
+  "type": "Humanoid",
+  "tags": "gith",
+  "alignment": "LE",
+  "challenge": "14",
+  "xp": "11500",
+  "source": "mtf 206\r"
+ },
+ {
+  "name": "Adult Silver Dragon",
+  "size": "Huge",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "LG",
+  "challenge": "16",
+  "xp": "15000",
+  "source": "mm 117\r"
+ },
+ {
+  "name": "Phoenix",
+  "size": "Gargantuan",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "16",
+  "xp": "15000",
+  "source": "mtf 199\r"
+ },
+ {
+  "name": "Star Spawn Larva Mage",
+  "size": "Medium",
+  "type": "Aberration",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "16",
+  "xp": "15000",
+  "source": "mtf 235\r"
+ },
+ {
+  "name": "Storm Giant Quintessent",
+  "size": "Huge",
+  "type": "Giant",
+  "tags": "storm giant",
+  "alignment": "CG",
+  "challenge": "16",
+  "xp": "15000",
+  "source": "vgm 151\r"
+ },
+ {
+  "name": "Adult Red Dragon",
+  "size": "Huge",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "17",
+  "xp": "18000",
+  "source": "mm 98\r"
+ },
+ {
+  "name": "Red Abishai",
+  "size": "Medium",
+  "type": "Fiend",
+  "tags": "devil",
+  "alignment": "LE",
+  "challenge": "19",
+  "xp": "22000",
+  "source": "mtf 162\r"
+ },
+ {
+  "name": "Zaratan",
+  "size": "Gargantuan",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "22",
+  "xp": "41000",
+  "source": "mtf 201\r"
+ },
+ {
+  "name": "Ancient Silver Dragon",
+  "size": "Gargantuan",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "LG",
+  "challenge": "23",
+  "xp": "50000",
+  "source": "mm 116\r"
+ },
+ {
+  "name": "Elder Tempest",
+  "size": "Gargantuan",
+  "type": "Elemental",
+  "tags": "",
+  "alignment": "N",
+  "challenge": "23",
+  "xp": "50000",
+  "source": "mtf 200\r"
+ },
+ {
+  "name": "Ancient Red Dragon",
+  "size": "Gargantuan",
+  "type": "Dragon",
+  "tags": "",
+  "alignment": "CE",
+  "challenge": "24",
+  "xp": "62000",
+  "source": "mm 97"
+ }
+]

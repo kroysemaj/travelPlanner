@@ -1,0 +1,136 @@
+name ,size ,type ,tags,alignment ,challenge ,xp,source 
+Cat,Tiny,Beast,,Unaligned,0,10,mm 320
+Commoner,Medium,Humanoid,,Any,0,10,mm 344
+Cranium Rat,Tiny,Beast,,LE,0,10,vgm 133
+Goat,Medium,Beast,,Unaligned,0,10,mm 330
+Rat,Tiny,Beast,,Unaligned,0,10,mm 335
+Raven,Tiny,Beast,,Unaligned,0,10,mm 335
+Bandit,Medium,Humanoid,,Any non-lawful,1/8,25,mm 343
+Boggle,Small,Fey,,CN,1/8,25,vgm 128
+Cultist,Medium,Humanoid,,Any non-good,1/8,25,mm 345
+Flying Snake,Tiny,Beast,,Unaligned,1/8,25,mm 322
+Giant Rat,Small,Beast,,Unaligned,1/8,25,mm 327
+Guard,Medium,Humanoid,,,1/8,25,mm 347
+Kobold,Small,Humanoid,kobold,LE,1/8,25,mm 195
+Mastiff,Medium,Beast,,Unaligned,1/8,25,mm 332
+Mule,Medium,Beast,,Unaligned,1/8,25,mm 333
+Noble,Medium,Humanoid,,,1/8,25,mm 348
+Pony,Medium,Beast,,Unaligned,1/8,25,mm 335
+Stirge,Tiny,Beast,,Unaligned,1/8,25,mm 284
+Acolyte,Medium,Humanoid,,Any,1/4,50,mm 342
+Draft Horse,Large,Beast,,Unaligned,1/4,50,mm 321
+Giant Centipede,Small,Beast,,Unaligned,1/4,50,mm 323
+Giant Poisonous Snake,Medium,Beast,,Unaligned,1/4,50,mm 327
+Kenku,Medium,Humanoid,kenku,CN,1/4,50,mm 194
+Kobold Inventor,Small,Humanoid,kobold,LE,1/4,50,vgm 166
+Oblex Spawn,Tiny,Ooze,,LE,1/4,50,mtf 217
+Ox,Large,Beast,,Unaligned,1/4,50,vgm 207
+Pseudodragon,Tiny,Dragon,,NG,1/4,50,mm 254
+Riding Horse,Large,Beast,,Unaligned,1/4,50,mm 336
+Skeleton,Medium,Undead,,LE,1/4,50,mm 272
+Smoke Mephit,Small,Elemental,,NE,1/4,50,mm 217
+Swarm of Bats,Medium,Beast,,Unaligned,1/4,50,mm 337
+Swarm of Rats,Medium,Beast,,Unaligned,1/4,50,mm 339
+Swarm of Ravens,Medium,Beast,,Unaligned,1/4,50,mm 339
+Winged Kobold,Small,Humanoid,kobold,LE,1/4,50,mm 195
+Wretched Sorrowsworn,Small,Monstrosity,,NE,1/4,50,mtf 233
+Zombie,Medium,Undead,,NE,1/4,50,mm 316
+Crocodile,Large,Beast,,Unaligned,1/2,100,mm 320
+Darkling,Small,Fey,,CN,1/2,100,vgm 134
+Giant Wasp,Medium,Beast,,Unaligned,1/2,100,mm 329
+Shadow,Medium,Undead,,CE,1/2,100,mm 269
+Skulk,Medium,Humanoid,,CN,1/2,100,mtf 227
+Swarm of Insects,Medium,Beast,,Unaligned,1/2,100,mm 338
+Thug,Medium,Humanoid,,,1/2,100,mm 350
+Warhorse,Large,Beast,,Unaligned,1/2,100,mm 340
+Ghoul,Medium,Undead,,CE,1,200,mm 148
+Giant Spider,Large,Beast,,Unaligned,1,200,mm 328
+Half-ogre,Large,Giant,,Any chaotic,1,200,mm 238
+Kobold Scale Sorcerer,Small,Humanoid,kobold,LE,1,200,vgm 167
+Meazel,Medium,Humanoid,meazel,NE,1,200,mtf 214
+Specter,Medium,Undead,,CE,1,200,mm 279
+Spy,Medium,Humanoid,,,1,200,mm 349
+Stone Cursed,Medium,Construct,,LE,1,200,mtf 240
+Yuan-ti Pureblood,Medium,Humanoid,yuan-ti,NE,1,200,mm 310
+Bandit Captain,Medium,Humanoid,,Any non-lawful,2,450,mm 344
+Cult Fanatic,Medium,Humanoid,,Any non-good,2,450,mm 345
+Darkling Elder,Medium,Fey,,CN,2,450,vgm 134
+Gargoyle,Medium,Elemental,,CE,2,450,mm 140
+Ghast,Medium,Undead,,CE,2,450,mm 148
+Guard Drake,Medium,Dragon,,Unaligned,2,450,vgm 158
+Meenlock,Small,Fey,,NE,2,450,vgm 170
+Mimic,Medium,Monstrosity,shapechanger,N,2,450,mm 220
+Priest,Medium,Humanoid,,,2,450,mm 348
+Wererat,Medium,Humanoid,"human, shapechanger",LE,2,450,mm 209
+Will-o-wisp,Tiny,Undead,,CE,2,450,mm 301
+Doppelganger,Medium,Monstrosity,shapechanger,N,3,700,mm 82
+Giff,Medium,Humanoid,,LN,3,700,mtf 204
+Knight,Medium,Humanoid,,,3,700,mm 347
+Orc Red Fang of Shargaas,Medium,Humanoid,orc,CE,3,700,vgm 185
+Phase Spider,Large,Monstrosity,,Unaligned,3,700,mm 334
+Slithering Tracker,Medium,Ooze,,CE,3,700,vgm 191
+Vampiric Mist,Medium,Undead,,CE,3,700,mtf 246
+Veteran,Medium,Humanoid,,,3,700,mm 350
+Water Weird,Large,Elemental,,N,3,700,mm 299
+Wight,Medium,Undead,,NE,3,700,mm 300
+Babau,Medium,Fiend,demon,CE,4,1100,vgm 136
+Couatl,Medium,Celestial,,LG,4,1100,mm 43
+Deathlock,Medium,Undead,,NE,4,1100,mtf 128
+Dybbuk,Medium,Fiend,demon,CE,4,1100,mtf 132
+Ghost,Medium,Undead,,Any,4,1100,mm 147
+Incubus,Medium,Fiend,shapechanger,NE,4,1100,mm 285
+Succubus,Medium,Fiend,shapechanger,NE,4,1100,mm 285
+Adult Oblex,Medium,Ooze,,LE,5,1800,mtf 218
+Allip,Medium,Undead,,NE,5,1800,mtf 116
+Banderhobb,Large,Monstrosity,,NE,5,1800,vgm 122
+Cambion,Medium,Fiend,,Any evil,5,1800,mm 36
+Gladiator,Medium,Humanoid,,Any,5,1800,mm 346
+Revenant,Medium,Undead,,N,5,1800,mm 259
+Swarm of Cranium Rats,Medium,Beast,,LE,5,1800,vgm 133
+Vampire Spawn,Medium,Undead,,NE,5,1800,mm 298
+Bodak,Medium,Undead,,CE,6,2300,vgm 127
+Invisible Stalker,Medium,Elemental,,N,6,2300,mm 192
+Mage,Medium,Humanoid,,,6,2300,mm 347
+White Abishai,Medium,Fiend,devil,LE,6,2300,mtf 163
+Black Abishai,Medium,Fiend,devil,LE,7,2900,mtf 160
+Lost Sorrowsworn,Medium,Monstrosity,,NE,7,2900,mtf 233
+Maurezhi,Medium,Fiend,demon,CE,7,2900,mtf 133
+Oni,Large,Giant,,LE,7,2900,mm 239
+Shadow Dancer,Medium,Humanoid,elf,N,7,2900,mtf 225
+Shield Guardian,Large,Construct,,Unaligned,7,2900,mm 271
+Assassin,Medium,Humanoid,,Any non-good,8,3900,mm 343
+Canoloth,Medium,Fiend,yugoloth,NE,8,3900,mtf 247
+Corpse Flower,Large,Plant,,CE,8,3900,mtf 127
+Deathlock Mastermind,Medium,Undead,,NE,8,3900,mtf 129
+Gloom Weaver,Medium,Humanoid,elf,N,9,5000,mtf 224
+Gray Slaad,Medium,Aberration,shapechanger,CN,9,5000,mm 277
+Lonely Sorrowsworn,Medium,Monstrosity,,NE,9,5000,mtf 232
+Young Silver Dragon,Large,Dragon,,LG,9,5000,mm 118
+Elder Oblex,Huge,Ooze,,LE,10,5900,mtf 219
+Githyanki Gish,Medium,Humanoid,gith,LE,10,5900,mtf 205
+Githzerai Enlightened,Medium,Humanoid,gith,LN,10,5900,mtf 208
+Orthon,Large,Fiend,devil,LE,10,5900,mtf 169
+Alkilith,Medium,Fiend,demon,CE,11,7200,mtf 130
+Hungry Sorrowsworn,Medium,Monstrosity,,NE,11,7200,mtf 232
+Soul Monger,Medium,Humanoid,elf,N,11,7200,mtf 226
+Yagnoloth,Large,Fiend,yugoloth,NE,11,7200,mtf 252
+Archmage,Medium,Humanoid,,Any,12,8400,mm 342
+Boneclaw,Large,Undead,,CE,12,8400,mtf 121
+Eidolon,Medium,Undead,,Any,12,8400,mtf 194
+Githyanki Kith'rak,Medium,Humanoid,gith,LE,12,8400,mtf 205
+Angry Sorrowsworn,Medium,Monstrosity,,NE,13,10000,mtf 231
+Rakshasa,Medium,Fiend,,LE,13,10000,mm 257
+Star Spawn Seer,Medium,Aberration,,NE,13,10000,mtf 236
+Vampire,Medium,Undead,shapechanger,LE,13,10000,mm 297
+Githyanki Supreme Commander,Medium,Humanoid,gith,LE,14,11500,mtf 206
+Green Abishai,Medium,Fiend,devil,LE,15,13000,mtf 162
+Nabassu,Medium,Fiend,demon,CE,15,13000,mtf 135
+Vampire (spellcaster),Medium,Undead,shapechanger,LE,15,13000,mm 297
+Vampire (warrior),Medium,Undead,shapechanger,LE,15,13000,mm 297
+Adult Silver Dragon,Huge,Dragon,,LG,16,15000,mm 117
+Steel Predator,Large,Construct,,LE,16,15000,mtf 239
+Blue Abishai,Medium,Fiend,devil,LE,17,18000,mtf 161
+Nagpa,Medium,Humanoid,nagpa,NE,17,18000,mtf 215
+Red Abishai,Medium,Fiend,devil,LE,19,22000,mtf 162
+Ancient Silver Dragon,Gargantuan,Dragon,,LG,23,50000,mm 116
+Tarrasque,Gargantuan,Monstrosity,titan,Unaligned,30,155000,mm 286
