@@ -9,6 +9,7 @@ const swamp = require("./monstersByTerrain/swamps.json");
 const underdark = require("./monstersByTerrain/underdark.json");
 const underwater = require("./monstersByTerrain/underwater.json");
 const urban = require("./monstersByTerrain/urban.json");
+const chalk = require("chalk");
 
 const terrainLists = {
   arctic,
@@ -24,7 +25,17 @@ const terrainLists = {
   urban
 };
 
-const terrain = process.env.terrain;
+const { terrain, days } = process.env;
 const list = terrainLists[terrain];
-const rando = Math.floor(Math.random() * list.length);
-console.log(list[rando]);
+const randomDigit = rollRandom(list.length);
+const randomMonster = list[randomDigit];
+
+console.log(chalk.red("Hello world!"));
+
+function rollRandom(max, min = 0) {
+  return Math.floor(Math.random() * max) + min;
+}
+
+function checkForEncounter() {
+  return rollRandom(12, 1);
+}
