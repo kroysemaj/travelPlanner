@@ -28,14 +28,81 @@ const terrainLists = {
 const { terrain, days } = process.env;
 const list = terrainLists[terrain];
 const randomDigit = rollRandom(list.length);
-const randomMonster = list[randomDigit];
+const displayDay = chalk.cyanBright;
+const log = console.log;
 
-console.log(chalk.red("Hello world!"));
+const itenerary = createIterneary(days, terrain);
+displayResult(itenerary);
+
+/* Functions */
+
+function displayResult(itenerary) {
+  itenerary.forEach(plan => {
+    const { day, amPm, styleEncounter, encounter } = plan;
+    const randomEncounter = encounter === null ? "Nothing" : encounter.name;
+    log(
+      `${displayDay(`DAY ${day} ${amPm}`)}: ${styleEncounter(randomEncounter)}`
+    );
+    if (encounter !== null) {
+      const {
+        name,
+        size,
+        type,
+        tags,
+        alignment,
+        challenge,
+        source
+      } = encounter;
+      log(`
+      Encounter: ${name}
+      Size: ${size}
+      Type: ${type}
+      Tags: ${tags !== "" ? tags : "none"}
+      Alignment: ${alignment}
+      Challenge: ${challenge}
+      Source: ${source}
+      `);
+    }
+  });
+}
+
+function createIterneary(days, terrain) {
+  const travelDays = Array(days * 2)
+    .fill()
+    .map((_, i) => i + 1);
+
+  const itenerary = travelDays.map(timeslot => {
+    let day, amPm;
+    if (timeslot % 2 !== 0) {
+      day = Math.ceil(timeslot / 2);
+      amPm = "AM";
+    } else {
+      day = timeslot / 2;
+      amPm = "PM";
+    }
+
+    const encounter = rollEncounter(terrain);
+    const styleEncounter =
+      encounter === null ? chalk.yellowBright : chalk.redBright;
+
+    return { day, amPm, encounter, styleEncounter };
+  });
+
+  return itenerary;
+}
+
+function rollEncounter(terrian) {
+  let result = null;
+  if (checkForEncounter()) {
+    result = list[rollRandom(list.length)];
+  }
+  return result;
+}
 
 function rollRandom(max, min = 0) {
   return Math.floor(Math.random() * max) + min;
 }
 
 function checkForEncounter() {
-  return rollRandom(12, 1);
+  return rollRandom(12, 1) === 12;
 }
