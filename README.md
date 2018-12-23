@@ -1,10 +1,12 @@
 # Travel Planner
 
-A simple tool for DMs for rolling lots of random encounters during overland travel in D&amp;D 5e
+A random encounter generator that doesn't care how squishy you are
 
 ## Introduction
 
-I needed a tool for generating encounters by terrain that were not gated by level. So I made one. If you want an encounter generated that will take your party's level into account, this is not the tool for you. I want my setting to feel unpredictable and occassionally unfairly lethal. Sometimes your party just runs afoul of a Frost Giant at 3rd level. ¯\_(ツ)\_/¯
+I needed a tool for generating encounters by terrain that were not gated by level. So I made one. If you want an encounter generated that will take your party's level into account, this is not the tool for you. I want my setting to feel unpredictable and occassionally unfairly lethal. Sometimes your party just runs afoul of a Frost Giant at 3rd level. ¯\\\_(ツ)\_/¯
+
+Right now the UI favors people with enough technical savvy to use terminal programs, which is all I need. In the future I might create a web interface for it if enough people ask me to.
 
 ## Requirements
 
@@ -19,3 +21,23 @@ I needed a tool for generating encounters by terrain that were not gated by leve
 1. Something that looks like this should happen:
 
 ![example.gif](example.gif)
+
+## Terrain Options
+
+There are lists of encounters for all the following terrains:
+
+- Arctic
+- Coast
+- Desert
+- Forest
+- Grassland
+- Hill
+- Mountain
+- Swamp
+- Underdark
+- Underwater
+- Urban
+
+## Credit
+
+The monster tables were imported from [Donjon Random Encouter Generator](https://donjon.bin.sh/d20/encounter/).

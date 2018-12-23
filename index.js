@@ -26,7 +26,7 @@ const terrainLists = {
 };
 
 const { terrain, days } = process.env;
-const list = terrainLists[terrain];
+const list = terrainLists[terrain.toLowerCase()];
 const randomDigit = rollRandom(list.length);
 const displayDay = chalk.cyanBright;
 const log = console.log;
